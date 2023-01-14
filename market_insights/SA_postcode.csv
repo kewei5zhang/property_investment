@@ -1,0 +1,1784 @@
+postcode,place_name,state_name,state_code,latitude,longitude,accuracy
+872,Nyapari,South Australia,SA,-23.3256,133.0557,3.0
+872,Fregon,South Australia,SA,-26.7639,132.0277,3.0
+872,Mimili,South Australia,SA,-23.3256,133.0557,3.0
+872,Indulkana,South Australia,SA,-26.96,133.3058,3.0
+872,Ernabella,South Australia,SA,-23.7917,132.6818,3.0
+5000,Adelaide,South Australia,SA,-34.9287,138.5986,4.0
+5000,Rundle Mall,South Australia,SA,-34.9286,138.6007,3.0
+5000,Hutt Street,South Australia,SA,-34.9286,138.6007,3.0
+5000,Halifax Street,South Australia,SA,-34.9286,138.6007,3.0
+5000,Station Arcade,South Australia,SA,-34.9286,138.6007,3.0
+5000,Adelaide Bc,South Australia,SA,-34.9286,138.6007,3.0
+5000,City West Campus,South Australia,SA,-34.9287,138.5986,3.0
+5000,Sturt Street,South Australia,SA,-34.9287,138.5986,3.0
+5001,Adelaide,South Australia,SA,-34.9287,138.5986,4.0
+5005,University Of Adelaide,South Australia,SA,-34.9006,138.5702,1.0
+5005,The University Of Adelaide,South Australia,SA,-34.9006,138.5702,1.0
+5005,Adelaide University,South Australia,SA,-34.9006,138.5702,1.0
+5006,North Adelaide,South Australia,SA,-34.9073,138.5914,4.0
+5006,North Adelaide Melbourne St,South Australia,SA,-34.9006,138.5702,3.0
+5007,Welland,South Australia,SA,-34.9,138.5333,4.0
+5007,West Hindmarsh,South Australia,SA,-34.9079,138.5641,4.0
+5007,Hindmarsh,South Australia,SA,-34.9014,138.575,4.0
+5007,Brompton,South Australia,SA,-34.8944,138.5782,4.0
+5007,Bowden,South Australia,SA,-34.9026,138.5791,4.0
+5008,Dudley Park,South Australia,SA,-34.8756,138.5773,4.0
+5008,West Croydon,South Australia,SA,-34.8945,138.5593,4.0
+5008,Croydon,South Australia,SA,-34.9006,138.5702,3.0
+5008,Devon Park,South Australia,SA,-34.8865,138.5823,4.0
+5008,Renown Park,South Australia,SA,-34.8917,138.5773,4.0
+5008,Ridleyton,South Australia,SA,-34.8928,138.5716,4.0
+5008,Croydon Park,South Australia,SA,-34.8803,138.5678,4.0
+5009,Kilkenny,South Australia,SA,-34.8791,138.5529,4.0
+5009,Beverley,South Australia,SA,-34.8951,138.5463,4.0
+5009,Allenby Gardens,South Australia,SA,-34.8977,138.5542,4.0
+5010,Regency Park,South Australia,SA,-34.8626,138.5724,4.0
+5010,Regency Park Bc,South Australia,SA,-34.8626,138.5678,3.0
+5010,Ferryden Park,South Australia,SA,-34.8662,138.5618,4.0
+5010,Angle Park,South Australia,SA,-34.8599,138.558,4.0
+5011,Woodville Park,South Australia,SA,-34.887,138.5465,4.0
+5011,St Clair,South Australia,SA,-34.8833,138.55,3.0
+5011,Woodville South,South Australia,SA,-34.8819,138.5348,4.0
+5011,Woodville West,South Australia,SA,-34.8864,138.5309,4.0
+5011,Woodville,South Australia,SA,-34.8833,138.55,4.0
+5012,Woodville Gardens,South Australia,SA,-34.8679,138.548,4.0
+5012,Mansfield Park,South Australia,SA,-34.8566,138.5519,4.0
+5012,Woodville North,South Australia,SA,-34.872,138.5431,4.0
+5012,Athol Park,South Australia,SA,-34.8561,138.5428,4.0
+5013,Rosewater East,South Australia,SA,-34.8391,138.5496,3.0
+5013,Gillman,South Australia,SA,-34.8409,138.5282,4.0
+5013,Ottoway,South Australia,SA,-34.8476,138.5357,4.0
+5013,Pennington,South Australia,SA,-34.8576,138.5316,4.0
+5013,Rosewater,South Australia,SA,-34.852,138.5216,4.0
+5013,Wingfield,South Australia,SA,-34.8498,138.5674,4.0
+5014,Cheltenham,South Australia,SA,-34.8667,138.5167,4.0
+5014,Queenstown,South Australia,SA,-34.8609,138.5105,4.0
+5014,Hendon,South Australia,SA,-34.9,138.5167,4.0
+5014,Royal Park,South Australia,SA,-34.8742,138.5119,4.0
+5014,Albert Park,South Australia,SA,-34.872,138.5197,4.0
+5014,Alberton,South Australia,SA,-34.8593,138.5214,4.0
+5015,Port Adelaide,South Australia,SA,-34.85,138.4667,4.0
+5015,Ethelton,South Australia,SA,-34.8487,138.491,4.0
+5015,Glanville,South Australia,SA,-34.8462,138.4898,4.0
+5015,New Port,South Australia,SA,-34.8417,138.4833,3.0
+5015,Birkenhead,South Australia,SA,-34.8368,138.4979,4.0
+5015,Port Adelaide DC,South Australia,SA,-34.8417,138.4833,3.0
+5016,Peterhead,South Australia,SA,-34.8336,138.491,4.0
+5016,Largs North,South Australia,SA,-34.8205,138.4924,4.0
+5016,Largs Bay,South Australia,SA,-34.8258,138.4862,4.0
+5017,Osborne,South Australia,SA,-34.798,138.498,4.0
+5017,Taperoo,South Australia,SA,-34.8043,138.4959,4.0
+5018,Outer Harbor,South Australia,SA,-34.7766,138.4874,4.0
+5018,North Haven,South Australia,SA,-34.7883,138.4916,4.0
+5019,Semaphore,South Australia,SA,-34.8393,138.4823,4.0
+5019,Semaphore Park,South Australia,SA,-34.8507,138.4789,4.0
+5019,Semaphore South,South Australia,SA,-34.8498,138.4795,4.0
+5019,Exeter,South Australia,SA,-34.8399,138.489,4.0
+5020,West Lakes Shore,South Australia,SA,-34.8601,138.4897,4.0
+5021,West Lakes,South Australia,SA,-34.873,138.4946,4.0
+5022,Henley Beach South,South Australia,SA,-34.9259,138.4955,4.0
+5022,Henley Beach,South Australia,SA,-34.9203,138.4944,4.0
+5022,Tennyson,South Australia,SA,-34.886,138.4859,4.0
+5022,Grange,South Australia,SA,-34.9022,138.4902,4.0
+5023,Seaton,South Australia,SA,-34.9,138.5167,4.0
+5023,Findon,South Australia,SA,-34.9,138.5333,4.0
+5024,West Beach,South Australia,SA,-34.946,138.5093,4.0
+5024,Fulham,South Australia,SA,-34.9274,138.5137,4.0
+5024,Fulham Gardens,South Australia,SA,-34.9148,138.5132,4.0
+5025,Flinders Park,South Australia,SA,-34.9103,138.5432,4.0
+5025,Kidman Park,South Australia,SA,-34.9122,138.5269,4.0
+5031,Torrensville Plaza,South Australia,SA,-34.9441,138.5648,3.0
+5031,Mile End,South Australia,SA,-34.9265,138.5703,4.0
+5031,Torrensville,South Australia,SA,-34.9106,138.5605,4.0
+5031,Mile End South,South Australia,SA,-34.9378,138.5704,4.0
+5031,Thebarton,South Australia,SA,-34.9167,138.5667,4.0
+5032,Lockleys,South Australia,SA,-34.9259,138.528,4.0
+5032,Brooklyn Park,South Australia,SA,-34.9285,138.5363,4.0
+5032,Underdale,South Australia,SA,-34.918,138.547,4.0
+5033,Marleston,South Australia,SA,-34.9476,138.5596,4.0
+5033,Hilton,South Australia,SA,-34.932,138.5643,4.0
+5033,Marleston DC,South Australia,SA,-34.9355,138.5617,3.0
+5033,Cowandilla,South Australia,SA,-34.9322,138.5593,4.0
+5033,West Richmond,South Australia,SA,-34.9387,138.5521,4.0
+5033,Hilton Plaza,South Australia,SA,-34.9441,138.5648,3.0
+5033,Richmond,South Australia,SA,-34.942,138.5632,4.0
+5034,Wayville,South Australia,SA,-34.95,138.5833,4.0
+5034,Millswood,South Australia,SA,-34.955,138.5889,4.0
+5034,Goodwood,South Australia,SA,-34.9509,138.5923,4.0
+5034,Kings Park,South Australia,SA,-34.9638,138.5909,4.0
+5034,Clarence Park,South Australia,SA,-34.9642,138.5806,4.0
+5035,Black Forest,South Australia,SA,-34.9603,138.5767,4.0
+5035,Keswick,South Australia,SA,-34.9418,138.5746,4.0
+5035,Forestville,South Australia,SA,-34.9495,138.5785,4.0
+5035,Ashford,South Australia,SA,-34.9486,138.5746,4.0
+5035,Everard Park,South Australia,SA,-34.952,138.5748,4.0
+5035,Keswick Terminal,South Australia,SA,-34.9411,138.5804,4.0
+5037,Kurralta Park,South Australia,SA,-34.9514,138.567,4.0
+5037,North Plympton,South Australia,SA,-34.9577,138.5534,4.0
+5037,Netley,South Australia,SA,-34.9489,138.5498,4.0
+5037,Glandore,South Australia,SA,-34.9615,138.5683,4.0
+5038,Camden Park,South Australia,SA,-34.9686,138.5396,4.0
+5038,Plympton,South Australia,SA,-34.95,138.55,4.0
+5038,Plympton Park,South Australia,SA,-34.9809,138.547,4.0
+5038,South Plympton,South Australia,SA,-34.9768,138.5559,4.0
+5039,Melrose Park,South Australia,SA,-34.9833,138.5754,4.0
+5039,Clarence Gardens,South Australia,SA,-34.9754,138.5798,4.0
+5039,Edwardstown,South Australia,SA,-34.9802,138.5694,4.0
+5039,Melrose Park DC,South Australia,SA,-34.9827,138.5741,3.0
+5040,Novar Gardens,South Australia,SA,-34.9733,138.5383,4.0
+5041,Cumberland Park,South Australia,SA,-34.972,138.5867,4.0
+5041,Westbourne Park,South Australia,SA,-34.9716,138.5952,4.0
+5041,Daw Park,South Australia,SA,-34.9898,138.5841,4.0
+5041,Panorama,South Australia,SA,-34.9908,138.5995,4.0
+5041,Colonel Light Gardens,South Australia,SA,-34.9863,138.5975,4.0
+5042,St Marys,South Australia,SA,-35.0042,138.5798,4.0
+5042,Bedford Park,South Australia,SA,-35.0333,138.5667,4.0
+5042,Pasadena,South Australia,SA,-35.0027,138.5886,4.0
+5042,Clovelly Park,South Australia,SA,-34.9995,138.5708,4.0
+5042,Flinders University,South Australia,SA,-35.0069,138.5513,3.0
+5043,Morphettville,South Australia,SA,-34.9871,138.544,4.0
+5043,Marion,South Australia,SA,-35.0167,138.5667,4.0
+5043,Mitchell Park,South Australia,SA,-35.0051,138.5623,4.0
+5043,Park Holme,South Australia,SA,-34.9888,138.552,4.0
+5043,Ascot Park,South Australia,SA,-34.9881,138.561,4.0
+5044,Somerton Park,South Australia,SA,-34.9971,138.5215,4.0
+5044,Glengowrie,South Australia,SA,-34.9871,138.5367,4.0
+5045,Glenelg Jetty Road,South Australia,SA,-34.9833,138.5167,3.0
+5045,Glenelg East,South Australia,SA,-34.9764,138.5296,4.0
+5045,Glenelg North,South Australia,SA,-34.9679,138.5175,4.0
+5045,Glenelg South,South Australia,SA,-34.9808,138.515,3.0
+5045,Glenelg,South Australia,SA,-34.9808,138.515,4.0
+5046,Oaklands Park,South Australia,SA,-35.0141,138.5384,4.0
+5046,Warradale North,South Australia,SA,-35.0069,138.5513,3.0
+5046,Warradale,South Australia,SA,-35.0074,138.5356,4.0
+5047,Seacombe Heights,South Australia,SA,-35.0326,138.5458,4.0
+5047,Seacombe Gardens,South Australia,SA,-35.0234,138.5458,4.0
+5047,Darlington,South Australia,SA,-35.0333,138.5667,4.0
+5047,Sturt,South Australia,SA,-35.0167,138.55,4.0
+5048,South Brighton,South Australia,SA,-35.0277,138.528,4.0
+5048,North Brighton,South Australia,SA,-35.0037,138.5218,4.0
+5048,Brighton,South Australia,SA,-35.0182,138.5235,4.0
+5048,Hove,South Australia,SA,-35.0112,138.523,4.0
+5048,Dover Gardens,South Australia,SA,-35.024,138.537,4.0
+5049,Seacliff Park,South Australia,SA,-35.0298,138.5313,4.0
+5049,Seaview Downs,South Australia,SA,-35.037,138.538,4.0
+5049,Kingston Park,South Australia,SA,-35.0382,138.5163,4.0
+5049,Marino,South Australia,SA,-35.0447,138.5124,4.0
+5049,Seacliff,South Australia,SA,-35.0347,138.5229,4.0
+5050,Eden Hills,South Australia,SA,-35.0211,138.5957,4.0
+5050,Bellevue Heights,South Australia,SA,-35.0302,138.5831,4.0
+5051,Blackwood,South Australia,SA,-35.0214,138.6143,4.0
+5051,Coromandel Valley,South Australia,SA,-35.05,138.6167,4.0
+5051,Hawthorndene,South Australia,SA,-35.0223,138.6304,4.0
+5051,Craigburn Farm,South Australia,SA,-35.05,138.6167,4.0
+5052,Belair,South Australia,SA,-34.9977,138.6208,4.0
+5052,Glenalta,South Australia,SA,-35.0079,138.6259,4.0
+5061,Malvern,South Australia,SA,-34.9592,138.6125,4.0
+5061,Unley DC,South Australia,SA,-34.9546,138.6063,3.0
+5061,Unley Park,South Australia,SA,-34.9639,138.6078,4.0
+5061,Unley BC,South Australia,SA,-34.9546,138.6063,3.0
+5061,Unley,South Australia,SA,-34.95,138.6,4.0
+5061,Hyde Park,South Australia,SA,-34.9547,138.6011,4.0
+5062,Kingswood,South Australia,SA,-34.9671,138.6077,4.0
+5062,Hawthorn,South Australia,SA,-34.9738,138.6074,4.0
+5062,Netherby,South Australia,SA,-34.9705,138.625,4.0
+5062,Brown Hill Creek,South Australia,SA,-34.9868,138.6421,4.0
+5062,Springfield,South Australia,SA,-34.9782,138.6325,4.0
+5062,Lower Mitcham,South Australia,SA,-34.9773,138.6049,4.0
+5062,Mitcham,South Australia,SA,-34.9789,138.6218,4.0
+5062,Torrens Park,South Australia,SA,-34.9761,138.6103,4.0
+5062,Clapham,South Australia,SA,-34.9899,138.6016,4.0
+5062,Mitcham Shopping Centre,South Australia,SA,-34.9788,138.6166,3.0
+5062,Lynton,South Australia,SA,-34.9973,138.6074,4.0
+5063,Parkside,South Australia,SA,-34.9451,138.613,4.0
+5063,Frewville,South Australia,SA,-34.9476,138.6306,4.0
+5063,Eastwood,South Australia,SA,-34.9423,138.6218,4.0
+5063,Fullarton,South Australia,SA,-34.951,138.629,4.0
+5063,Highgate,South Australia,SA,-34.9618,138.6218,4.0
+5064,Mount Osmond,South Australia,SA,-34.9629,138.6566,4.0
+5064,Urrbrae,South Australia,SA,-34.9663,138.6422,4.0
+5064,Glen Osmond,South Australia,SA,-34.9596,138.6487,4.0
+5064,Myrtle Bank,South Australia,SA,-34.9606,138.6338,4.0
+5064,St Georges,South Australia,SA,-34.952,138.6479,4.0
+5064,Glenunga,South Australia,SA,-34.9501,138.6384,4.0
+5065,Linden Park,South Australia,SA,-34.9473,138.6529,4.0
+5065,Tusmore,South Australia,SA,-34.9389,138.6506,4.0
+5065,Dulwich,South Australia,SA,-34.9365,138.6272,4.0
+5065,Glenside,South Australia,SA,-34.9427,138.6338,4.0
+5065,Toorak Gardens,South Australia,SA,-34.9348,138.6364,4.0
+5066,Stonyfell,South Australia,SA,-34.9342,138.6767,4.0
+5066,Burnside,South Australia,SA,-34.9383,138.6673,3.0
+5066,Erindale,South Australia,SA,-34.9278,138.6631,4.0
+5066,Beaumont,South Australia,SA,-34.949,138.6619,4.0
+5066,Waterfall Gully,South Australia,SA,-34.9667,138.679,4.0
+5066,Wattle Park,South Australia,SA,-34.9252,138.675,4.0
+5066,Hazelwood Park,South Australia,SA,-34.9395,138.6588,4.0
+5067,Beulah Park,South Australia,SA,-34.9177,138.6452,4.0
+5067,Rose Park,South Australia,SA,-34.9276,138.626,4.0
+5067,Norwood,South Australia,SA,-34.9273,138.6285,4.0
+5067,Kent Town,South Australia,SA,-34.9216,138.6201,4.0
+5067,Norwood South,South Australia,SA,-34.9167,138.65,3.0
+5068,Kensington Gardens,South Australia,SA,-34.9258,138.6615,4.0
+5068,Heathpool,South Australia,SA,-34.9314,138.6463,4.0
+5068,Marryatville,South Australia,SA,-34.9284,138.646,4.0
+5068,Leabrook,South Australia,SA,-34.9298,138.6586,4.0
+5068,Kensington Park,South Australia,SA,-34.9202,138.6543,4.0
+5068,Trinity Gardens,South Australia,SA,-34.9144,138.6414,4.0
+5068,St Morris,South Australia,SA,-34.9111,138.6536,4.0
+5068,Kensington,South Australia,SA,-34.9167,138.65,4.0
+5069,Stepney,South Australia,SA,-34.9123,138.6292,4.0
+5069,College Park,South Australia,SA,-34.9117,138.6198,4.0
+5069,St Peters,South Australia,SA,-34.905,138.6225,4.0
+5069,Hackney,South Australia,SA,-34.9139,138.6164,4.0
+5069,Evandale,South Australia,SA,-34.9055,138.6354,4.0
+5069,Maylands,South Australia,SA,-34.9113,138.6367,4.0
+5070,Payneham,South Australia,SA,-34.8972,138.6406,4.0
+5070,Glynde DC,South Australia,SA,-34.8988,138.6447,3.0
+5070,Royston Park,South Australia,SA,-34.9004,138.6361,4.0
+5070,Glynde Plaza,South Australia,SA,-34.8994,138.6696,3.0
+5070,Felixstow,South Australia,SA,-34.889,138.647,4.0
+5070,Joslin,South Australia,SA,-34.8997,138.6265,4.0
+5070,Glynde,South Australia,SA,-34.896,138.6525,4.0
+5070,Firle,South Australia,SA,-34.9046,138.6532,4.0
+5070,Marden,South Australia,SA,-34.8957,138.6378,4.0
+5070,Payneham South,South Australia,SA,-34.9048,138.6445,4.0
+5071,Kent Town DC,South Australia,SA,-34.9216,138.6201,3.0
+5071,Kent Town,South Australia,SA,-34.9216,138.6201,4.0
+5072,Magill South,South Australia,SA,-34.9091,138.675,4.0
+5072,Rosslyn Park,South Australia,SA,-34.9219,138.6755,4.0
+5072,Skye,South Australia,SA,-34.9245,138.6928,4.0
+5072,Magill,South Australia,SA,-34.9091,138.675,4.0
+5072,Auldana,South Australia,SA,-34.918,138.6869,4.0
+5072,Woodforde,South Australia,SA,-34.9051,138.6896,4.0
+5072,Magill North,South Australia,SA,-34.8994,138.6696,3.0
+5072,Teringie,South Australia,SA,-34.9143,138.7023,4.0
+5073,Tranmere,South Australia,SA,-34.9055,138.6621,4.0
+5073,Tranmere North,South Australia,SA,-34.8994,138.6696,3.0
+5073,Rostrevor,South Australia,SA,-34.8939,138.6918,4.0
+5073,Hectorville,South Australia,SA,-34.8916,138.6589,4.0
+5074,Newton,South Australia,SA,-34.8821,138.6825,4.0
+5074,Campbelltown,South Australia,SA,-34.8833,138.6667,4.0
+5075,Paradise,South Australia,SA,-34.8736,138.669,4.0
+5075,Dernancourt,South Australia,SA,-34.862,138.6766,4.0
+5076,Athelstone,South Australia,SA,-34.8702,138.6999,4.0
+5076,Castambul,South Australia,SA,-34.8715,138.7055,3.0
+5081,Gilberton,South Australia,SA,-34.9005,138.6126,4.0
+5081,Vale Park,South Australia,SA,-34.886,138.6271,4.0
+5081,Medindie,South Australia,SA,-34.896,138.605,4.0
+5081,Walkerville,South Australia,SA,-34.8711,138.6232,3.0
+5081,Collinswood,South Australia,SA,-34.8873,138.6122,4.0
+5081,Medindie Gardens,South Australia,SA,-34.8909,138.6039,4.0
+5082,Fitzroy,South Australia,SA,-34.8968,138.5914,4.0
+5082,Prospect East,South Australia,SA,-34.8845,138.5925,3.0
+5082,Ovingham,South Australia,SA,-34.8986,138.5852,4.0
+5082,Thorngate,South Australia,SA,-34.8978,138.5983,4.0
+5082,Prospect,South Australia,SA,-34.8824,138.5933,4.0
+5083,Broadview,South Australia,SA,-34.8759,138.615,4.0
+5083,Sefton Park,South Australia,SA,-34.874,138.6034,4.0
+5083,Nailsworth,South Australia,SA,-34.8844,138.6062,4.0
+5084,Kilburn North,South Australia,SA,-34.8595,138.59,3.0
+5084,Kilburn,South Australia,SA,-34.8597,138.5856,4.0
+5084,Blair Athol,South Australia,SA,-34.8589,138.5966,4.0
+5085,Northgate,South Australia,SA,-34.8578,138.6291,4.0
+5085,Northfield,South Australia,SA,-34.85,138.6333,4.0
+5085,Clearview,South Australia,SA,-34.8573,138.6133,4.0
+5085,Enfield,South Australia,SA,-34.8526,138.6026,4.0
+5085,Enfield Plaza,South Australia,SA,-34.8711,138.6232,3.0
+5086,Oakden,South Australia,SA,-34.8528,138.6433,4.0
+5086,Manningham,South Australia,SA,-34.8711,138.6232,3.0
+5086,Gilles Plains,South Australia,SA,-34.85,138.65,4.0
+5086,Greenacres,South Australia,SA,-34.8685,138.628,4.0
+5086,Hillcrest,South Australia,SA,-34.8625,138.6431,4.0
+5086,Hampstead Gardens,South Australia,SA,-34.8745,138.6288,4.0
+5087,Windsor Gardens,South Australia,SA,-34.8654,138.647,4.0
+5087,Klemzig,South Australia,SA,-34.8793,138.6356,4.0
+5088,Holden Hill,South Australia,SA,-34.8516,138.6723,4.0
+5089,Highbury,South Australia,SA,-34.8529,138.6975,4.0
+5090,Hope Valley,South Australia,SA,-34.8333,138.7,4.0
+5091,Tea Tree Gully,South Australia,SA,-34.8216,138.7353,3.0
+5091,Vista,South Australia,SA,-34.8355,138.7232,4.0
+5091,Banksia Park,South Australia,SA,-34.8102,138.7357,4.0
+5092,Modbury North DC,South Australia,SA,-34.8333,138.6833,3.0
+5092,Modbury,South Australia,SA,-34.8333,138.6833,4.0
+5092,Modbury North,South Australia,SA,-34.8285,138.6739,4.0
+5092,Modbury Heights,South Australia,SA,-34.8097,138.6854,4.0
+5093,Valley View,South Australia,SA,-34.8399,138.6607,4.0
+5093,Para Vista,South Australia,SA,-34.8209,138.6611,4.0
+5094,Gepps Cross,South Australia,SA,-34.8415,138.5956,4.0
+5094,Dry Creek,South Australia,SA,-34.8281,138.5547,4.0
+5094,Cavan,South Australia,SA,-34.8291,138.5985,4.0
+5095,Pooraka,South Australia,SA,-34.8247,138.6264,4.0
+5095,The Levels,South Australia,SA,-34.8149,138.6162,3.0
+5095,Mawson Lakes,South Australia,SA,-34.8159,138.6081,4.0
+5096,Para Hills West,South Australia,SA,-34.8047,138.6428,4.0
+5096,Para Hills,South Australia,SA,-34.8121,138.658,4.0
+5096,Gulfview Heights,South Australia,SA,-34.7955,138.6694,4.0
+5097,Redwood Park,South Australia,SA,-34.8116,138.7069,4.0
+5097,St Agnes,South Australia,SA,-34.8308,138.7107,4.0
+5097,Ridgehaven,South Australia,SA,-34.8213,138.7047,4.0
+5098,Ingle Farm,South Australia,SA,-34.8333,138.6333,4.0
+5098,Walkley Heights,South Australia,SA,-34.8367,138.6437,4.0
+5106,Parafield,South Australia,SA,-34.789,138.6374,4.0
+5106,Salisbury South DC,South Australia,SA,-34.7746,138.6221,3.0
+5106,Salisbury South,South Australia,SA,-34.7805,138.648,4.0
+5106,Salisbury South BC,South Australia,SA,-34.7746,138.6221,3.0
+5107,Parafield Gardens,South Australia,SA,-34.7825,138.6108,4.0
+5107,Green Fields,South Australia,SA,-34.8006,138.6067,4.0
+5108,Salisbury,South Australia,SA,-34.7667,138.6333,4.0
+5108,Salisbury North Whites Road,South Australia,SA,-34.7619,138.6208,3.0
+5108,Paralowie,South Australia,SA,-34.7571,138.6082,4.0
+5108,Salisbury Downs,South Australia,SA,-34.7677,138.6221,4.0
+5108,Salisbury North,South Australia,SA,-34.7496,138.6206,4.0
+5109,Salisbury East Northbri Ave,South Australia,SA,-34.7874,138.6417,3.0
+5109,Salisbury Plain,South Australia,SA,-34.7726,138.6633,4.0
+5109,Salisbury East,South Australia,SA,-34.7905,138.6545,4.0
+5109,Salisbury Park,South Australia,SA,-34.7615,138.6703,4.0
+5109,Salisbury Heights,South Australia,SA,-34.7631,138.6759,4.0
+5109,Brahma Lodge,South Australia,SA,-34.776,138.6531,4.0
+5110,Direk,South Australia,SA,-34.7216,138.6015,4.0
+5110,Globe Derby Park,South Australia,SA,-34.7876,138.5898,4.0
+5110,Waterloo Corner,South Australia,SA,-34.7167,138.5833,4.0
+5110,St Kilda,South Australia,SA,-34.7556,138.5696,3.0
+5110,Bolivar,South Australia,SA,-34.7667,138.6,4.0
+5110,Burton,South Australia,SA,-34.7334,138.6025,4.0
+5111,Edinburgh,South Australia,SA,-34.7462,138.6375,4.0
+5111,Edinburgh Raaf,South Australia,SA,-34.6697,138.6878,3.0
+5112,Elizabeth Vale,South Australia,SA,-34.7486,138.6682,4.0
+5112,Hillbank,South Australia,SA,-34.7359,138.6872,4.0
+5112,Elizabeth South,South Australia,SA,-34.7318,138.6619,4.0
+5112,Elizabeth Grove,South Australia,SA,-34.7353,138.6689,4.0
+5112,Elizabeth,South Australia,SA,-34.7194,138.6771,4.0
+5112,Elizabeth East,South Australia,SA,-34.7251,138.6821,4.0
+5113,Elizabeth Downs,South Australia,SA,-34.6998,138.6913,4.0
+5113,Davoren Park,South Australia,SA,-34.6906,138.6686,4.0
+5113,Elizabeth West,South Australia,SA,-34.7009,138.678,3.0
+5113,Davoren Park South,South Australia,SA,-34.6906,138.6686,4.0
+5113,Elizabeth Park,South Australia,SA,-34.7097,138.686,4.0
+5113,Elizabeth North,South Australia,SA,-34.7068,138.6761,4.0
+5113,Elizabeth West DC,South Australia,SA,-34.6906,138.6686,3.0
+5113,Edinburgh North,South Australia,SA,-34.6906,138.6686,3.0
+5114,One Tree Hill,South Australia,SA,-34.7,138.7667,4.0
+5114,Smithfield,South Australia,SA,-34.6833,138.6833,4.0
+5114,Smithfield West,South Australia,SA,-34.6646,138.6807,4.0
+5114,Sampson Flat,South Australia,SA,-34.7287,138.7801,4.0
+5114,Uleybury,South Australia,SA,-34.6763,138.7459,4.0
+5114,Gould Creek,South Australia,SA,-34.7424,138.7087,4.0
+5114,Andrews Farm,South Australia,SA,-34.6763,138.662,4.0
+5114,Humbug Scrub,South Australia,SA,-34.7409,138.8116,4.0
+5114,Smithfield Plains,South Australia,SA,-34.6764,138.6779,4.0
+5114,Yattalunga,South Australia,SA,-34.6847,138.8037,4.0
+5114,Blakeview,South Australia,SA,-34.6757,138.7101,4.0
+5114,Craigmore,South Australia,SA,-34.7006,138.7096,4.0
+5115,Munno Para,South Australia,SA,-34.6679,138.7015,4.0
+5115,Kudla,South Australia,SA,-34.6423,138.7018,4.0
+5115,Munno Para West,South Australia,SA,-34.6646,138.6807,4.0
+5115,Munno Para Downs,South Australia,SA,-34.6557,138.6812,4.0
+5116,Evanston,South Australia,SA,-34.6166,138.7337,4.0
+5116,Evanston Gardens,South Australia,SA,-34.6232,138.7217,4.0
+5116,Hillier,South Australia,SA,-34.6309,138.6682,4.0
+5116,Evanston Park,South Australia,SA,-34.6228,138.7412,4.0
+5116,Evanston South,South Australia,SA,-34.6483,138.7178,4.0
+5117,Angle Vale,South Australia,SA,-34.641,138.6461,4.0
+5118,Kingsford,South Australia,SA,-34.5862,138.7137,3.0
+5118,Gawler,South Australia,SA,-34.6025,138.749,4.0
+5118,Kalbeeba,South Australia,SA,-34.625,138.7928,4.0
+5118,Concordia,South Australia,SA,-34.5748,138.8051,4.0
+5118,Gawler East,South Australia,SA,-34.5989,138.7632,4.0
+5118,Willaston,South Australia,SA,-34.5833,138.75,4.0
+5118,Hewett,South Australia,SA,-34.578,138.7524,4.0
+5118,Gawler River,South Australia,SA,-34.6144,138.6564,4.0
+5118,Reid,South Australia,SA,-34.5913,138.7397,3.0
+5118,Gawler West,South Australia,SA,-34.6044,138.7325,4.0
+5118,Gawler South,South Australia,SA,-34.6071,138.7445,4.0
+5118,Kangaroo Flat,South Australia,SA,-34.55,138.7,4.0
+5118,Bibaringa,South Australia,SA,-34.6337,138.766,4.0
+5118,Ward Belt,South Australia,SA,-34.5789,138.6683,4.0
+5118,Gawler Belt,South Australia,SA,-34.5862,138.7137,3.0
+5118,Buchfelde,South Australia,SA,-34.5862,138.7137,3.0
+5120,Virginia,South Australia,SA,-34.6663,138.5603,4.0
+5120,Buckland Park,South Australia,SA,-34.6853,138.5417,4.0
+5121,Penfield,South Australia,SA,-34.7,138.6333,4.0
+5121,Penfield Gardens,South Australia,SA,-34.6522,138.6329,4.0
+5121,Macdonald Park,South Australia,SA,-34.6584,138.6439,4.0
+5125,Golden Grove,South Australia,SA,-34.7833,138.7333,4.0
+5125,Golden Grove Village,South Australia,SA,-34.7689,138.735,3.0
+5125,Greenwith,South Australia,SA,-34.7657,138.7138,4.0
+5126,Fairview Park,South Australia,SA,-34.8,138.7286,4.0
+5126,Yatala Vale,South Australia,SA,-34.7945,138.7303,4.0
+5126,Surrey Downs,South Australia,SA,-34.7995,138.7115,4.0
+5127,Wynn Vale,South Australia,SA,-34.7994,138.6871,4.0
+5131,Houghton,South Australia,SA,-34.8287,138.7615,4.0
+5131,Upper Hermitage,South Australia,SA,-34.7964,138.7589,4.0
+5131,Lower Hermitage,South Australia,SA,-34.7942,138.7798,3.0
+5132,Paracombe,South Australia,SA,-34.8488,138.78,4.0
+5133,Inglewood,South Australia,SA,-34.824,138.7739,4.0
+5134,Montacute,South Australia,SA,-34.888,138.7491,4.0
+5134,Cherryville,South Australia,SA,-34.912,138.7657,4.0
+5136,Norton Summit,South Australia,SA,-34.9229,138.7249,4.0
+5137,Ashton,South Australia,SA,-34.9395,138.7371,4.0
+5137,Marble Hill,South Australia,SA,-34.9395,138.7371,3.0
+5138,Basket Range,South Australia,SA,-34.9398,138.765,4.0
+5139,Forest Range,South Australia,SA,-34.928,138.807,4.0
+5140,Greenhill,South Australia,SA,-34.9499,138.6917,4.0
+5141,Summertown,South Australia,SA,-34.9595,138.7313,4.0
+5141,Horsnell Gully,South Australia,SA,-34.9351,138.7044,4.0
+5142,Uraidla,South Australia,SA,-34.956,138.7444,4.0
+5144,Carey Gully,South Australia,SA,-34.9647,138.7618,4.0
+5150,Leawood Gardens,South Australia,SA,-34.9741,138.6734,4.0
+5150,Eagle On The Hill,South Australia,SA,-35.0887,138.6997,3.0
+5151,Piccadilly,South Australia,SA,-34.9778,138.7302,4.0
+5152,Stirling,South Australia,SA,-35.0152,138.7364,4.0
+5152,Crafers,South Australia,SA,-35.0,138.7,4.0
+5152,Cleland,South Australia,SA,-35.0076,138.7182,3.0
+5152,Crafers West,South Australia,SA,-34.9914,138.6821,4.0
+5153,Longwood,South Australia,SA,-35.05,138.7167,4.0
+5153,Scott Creek,South Australia,SA,-35.0575,138.7052,4.0
+5153,Jupiter Creek,South Australia,SA,-35.1379,138.758,4.0
+5153,Bradbury,South Australia,SA,-35.0608,138.7251,4.0
+5153,Macclesfield,South Australia,SA,-35.1718,138.8359,4.0
+5153,Echunga,South Australia,SA,-35.1035,138.7959,4.0
+5153,Mylor,South Australia,SA,-35.043,138.759,4.0
+5153,Biggs Flat,South Australia,SA,-35.0667,138.7833,4.0
+5153,Chapel Hill,South Australia,SA,-35.0842,138.7582,3.0
+5153,Ironbank,South Australia,SA,-35.05,138.6833,4.0
+5153,Heathfield,South Australia,SA,-35.0167,138.7167,4.0
+5153,Flaxley,South Australia,SA,-35.1333,138.8167,4.0
+5153,Green Hills Range,South Australia,SA,-35.0842,138.7582,3.0
+5154,Aldgate,South Australia,SA,-35.0167,138.7333,4.0
+5155,Mount George,South Australia,SA,-35.0037,138.7637,3.0
+5155,Bridgewater,South Australia,SA,-35.0,138.75,4.0
+5156,Upper Sturt,South Australia,SA,-35.0167,138.6833,4.0
+5157,Dorset Vale,South Australia,SA,-35.0873,138.6764,4.0
+5157,Clarendon,South Australia,SA,-35.1167,138.6333,4.0
+5157,Cherry Gardens,South Australia,SA,-35.0634,138.6629,4.0
+5157,Kangarilla,South Australia,SA,-35.1488,138.6604,4.0
+5157,Bull Creek,South Australia,SA,-35.2333,138.75,4.0
+5157,Ashbourne,South Australia,SA,-35.2873,138.7668,4.0
+5157,Coromandel East,South Australia,SA,-35.0477,138.6419,4.0
+5157,Mcharg Creek,South Australia,SA,-35.273,138.7361,4.0
+5158,Sheidow Park,South Australia,SA,-35.0793,138.5274,4.0
+5158,O'Halloran Hill DC,South Australia,SA,-35.073,138.5387,3.0
+5158,Hallett Cove,South Australia,SA,-35.0792,138.5146,4.0
+5158,O'Halloran Hill,South Australia,SA,-35.0667,138.55,4.0
+5158,Trott Park,South Australia,SA,-35.0758,138.5419,4.0
+5159,Happy Valley,South Australia,SA,-35.0833,138.5333,4.0
+5159,Chandlers Hill,South Australia,SA,-35.0865,138.6169,4.0
+5159,Flagstaff Hill,South Australia,SA,-35.0486,138.5828,4.0
+5159,Aberfoyle Park,South Australia,SA,-35.0768,138.5916,4.0
+5160,Lonsdale DC,South Australia,SA,-35.1068,138.4929,3.0
+5160,Lonsdale,South Australia,SA,-35.1068,138.4929,4.0
+5161,Reynella,South Australia,SA,-35.0937,138.5308,4.0
+5161,Reynella East,South Australia,SA,-35.092,138.5574,4.0
+5161,Old Reynella,South Australia,SA,-35.1035,138.5336,4.0
+5162,Morphett Vale,South Australia,SA,-35.1333,138.5167,4.0
+5162,Woodcroft,South Australia,SA,-35.1024,138.5629,4.0
+5163,Huntfield Heights,South Australia,SA,-35.1545,138.5142,4.0
+5163,Onkaparinga Hills,South Australia,SA,-35.1351,138.567,4.0
+5163,Hackham West,South Australia,SA,-35.1431,138.5144,4.0
+5163,Hackham,South Australia,SA,-35.15,138.5167,4.0
+5164,Christie Downs,South Australia,SA,-35.13,138.4963,4.0
+5165,Christies Beach,South Australia,SA,-35.1388,138.4723,4.0
+5165,Christies Beach North,South Australia,SA,-35.1451,138.5038,3.0
+5166,O'Sullivan Beach,South Australia,SA,-35.1188,138.4734,4.0
+5167,Port Noarlunga,South Australia,SA,-35.148,138.471,4.0
+5167,Port Noarlunga South,South Australia,SA,-35.174,138.4686,4.0
+5168,Old Noarlunga,South Australia,SA,-35.1821,138.5014,4.0
+5168,Noarlunga Centre,South Australia,SA,-35.1821,138.5014,4.0
+5168,Noarlunga Downs,South Australia,SA,-35.1504,138.504,4.0
+5169,Seaford Heights,South Australia,SA,-35.1988,138.4909,4.0
+5169,Moana,South Australia,SA,-35.1939,138.4761,4.0
+5169,Seaford Meadows,South Australia,SA,-35.1728,138.4879,4.0
+5169,Seaford,South Australia,SA,-35.1898,138.4759,4.0
+5169,Seaford Rise,South Australia,SA,-35.193,138.4817,4.0
+5170,Maslin Beach,South Australia,SA,-35.2259,138.4798,4.0
+5171,Blewitt Springs,South Australia,SA,-35.2178,138.5633,3.0
+5171,Mclaren Vale,South Australia,SA,-35.2189,138.5433,4.0
+5171,Tatachilla,South Australia,SA,-35.2369,138.5071,4.0
+5171,Mclaren Flat,South Australia,SA,-35.2167,138.5833,4.0
+5171,Pedler Creek,South Australia,SA,-35.202,138.566,3.0
+5172,Hope Forest,South Australia,SA,-35.2833,138.6167,4.0
+5172,Willunga,South Australia,SA,-35.2713,138.5542,4.0
+5172,Yundi,South Australia,SA,-35.3167,138.6333,4.0
+5172,Willunga Hill,South Australia,SA,-35.2751,138.6196,3.0
+5172,Dingabledinga,South Australia,SA,-35.2672,138.6291,4.0
+5172,Willunga South,South Australia,SA,-35.2838,138.5548,4.0
+5172,The Range,South Australia,SA,-35.2463,138.6228,4.0
+5172,Pages Flat,South Australia,SA,-35.2751,138.6196,3.0
+5172,Kuitpo Colony,South Australia,SA,-35.2876,138.6963,4.0
+5172,Montarra,South Australia,SA,-35.2667,138.6167,4.0
+5172,Kyeema,South Australia,SA,-35.2763,138.6731,4.0
+5172,Whites Valley,South Australia,SA,-35.2711,138.5221,4.0
+5173,Port Willunga,South Australia,SA,-35.2779,138.4523,4.0
+5173,Aldinga,South Australia,SA,-35.2833,138.4833,4.0
+5173,Aldinga Beach,South Australia,SA,-35.2783,138.458,4.0
+5174,Sellicks Hill,South Australia,SA,-35.3296,138.4742,4.0
+5174,Sellicks Beach,South Australia,SA,-35.3387,138.4473,4.0
+5201,Kuitpo,South Australia,SA,-35.2266,138.6861,4.0
+5201,Meadows,South Australia,SA,-35.1802,138.7625,4.0
+5201,Prospect Hill,South Australia,SA,-35.2333,138.7167,4.0
+5201,Blackfellows Creek,South Australia,SA,-35.2159,138.7406,3.0
+5201,Paris Creek,South Australia,SA,-35.2094,138.7955,4.0
+5202,Hindmarsh Tiers,South Australia,SA,-35.4,138.45,3.0
+5202,Myponga,South Australia,SA,-35.404,138.4712,4.0
+5202,Myponga Beach,South Australia,SA,-35.3738,138.387,4.0
+5203,Bald Hills,South Australia,SA,-35.5167,138.4167,4.0
+5203,Yankalilla,South Australia,SA,-35.4571,138.3498,4.0
+5203,Wattle Flat,South Australia,SA,-35.428,138.3897,4.0
+5203,Parawa,South Australia,SA,-35.4851,138.3791,3.0
+5203,Tunkalilla,South Australia,SA,-35.4851,138.3791,3.0
+5203,Torrens Vale,South Australia,SA,-35.5167,138.3667,4.0
+5204,Normanville,South Australia,SA,-35.4477,138.317,4.0
+5204,Rapid Bay,South Australia,SA,-35.5251,138.1893,4.0
+5204,Second Valley,South Australia,SA,-35.5311,138.2269,4.0
+5204,Wirrina Cove,South Australia,SA,-35.5225,138.232,3.0
+5204,Delamere,South Australia,SA,-35.5833,138.1833,4.0
+5204,Hay Flat,South Australia,SA,-35.5225,138.232,3.0
+5204,Carrickalinga,South Australia,SA,-35.4275,138.3244,4.0
+5204,Silverton,South Australia,SA,-35.5225,138.232,3.0
+5204,Cape Jervis,South Australia,SA,-35.6034,138.1032,4.0
+5204,Deep Creek,South Australia,SA,-35.5225,138.232,3.0
+5210,Mount Compass,South Australia,SA,-35.3469,138.6203,4.0
+5210,Mount Magnificent,South Australia,SA,-35.3484,138.6518,3.0
+5210,Nangkita,South Australia,SA,-35.3455,138.6865,4.0
+5211,Lower Inman Valley,South Australia,SA,-35.516,138.5679,4.0
+5211,Inman Valley,South Australia,SA,-35.4938,138.4563,4.0
+5211,Waitpinga,South Australia,SA,-35.5744,138.5826,4.0
+5211,Encounter Bay,South Australia,SA,-35.5742,138.6005,4.0
+5211,Hayborough,South Australia,SA,-35.5313,138.6504,4.0
+5211,Back Valley,South Australia,SA,-35.5453,138.5896,4.0
+5211,Willow Creek,South Australia,SA,-35.5417,138.5839,3.0
+5211,Hindmarsh Valley,South Australia,SA,-35.5167,138.6167,4.0
+5211,Mount Jagged,South Australia,SA,-35.5417,138.5839,3.0
+5211,Mccracken,South Australia,SA,-35.5358,138.6312,4.0
+5211,Victor Harbor,South Australia,SA,-35.5504,138.6215,4.0
+5212,Port Elliot,South Australia,SA,-35.5302,138.6792,4.0
+5213,Middleton,South Australia,SA,-35.5105,138.7038,4.0
+5214,Hindmarsh Island,South Australia,SA,-35.5101,138.8676,4.0
+5214,Mosquito Hill,South Australia,SA,-35.502,138.7849,3.0
+5214,Goolwa Beach,South Australia,SA,-35.5047,138.7732,4.0
+5214,Currency Creek,South Australia,SA,-35.45,138.7667,4.0
+5214,Goolwa,South Australia,SA,-35.5016,138.7819,4.0
+5214,Mundoo Island,South Australia,SA,-35.5509,138.9148,4.0
+5214,Goolwa South,South Australia,SA,-35.5148,138.7813,4.0
+5214,Goolwa North,South Australia,SA,-35.4912,138.8126,4.0
+5220,Parndana,South Australia,SA,-35.7853,137.2571,4.0
+5221,American River,South Australia,SA,-35.7725,137.7783,4.0
+5221,Ballast Head,South Australia,SA,-35.7717,137.7804,4.0
+5221,Muston,South Australia,SA,-35.7897,137.757,4.0
+5222,Kangaroo Head,South Australia,SA,-35.7717,137.7804,4.0
+5222,Island Beach,South Australia,SA,-35.7975,137.7987,4.0
+5222,Penneshaw,South Australia,SA,-35.7333,137.9333,4.0
+5222,Pelican Lagoon,South Australia,SA,-35.807,137.8039,4.0
+5222,Brown Beach,South Australia,SA,-35.7984,137.8378,4.0
+5222,Sapphiretown,South Australia,SA,-35.7907,137.781,4.0
+5222,Baudin Beach,South Australia,SA,-35.7765,137.8729,4.0
+5222,Dudley West,South Australia,SA,-35.7661,137.8681,3.0
+5222,Ironstone,South Australia,SA,-35.7661,137.8681,3.0
+5222,Antechamber Bay,South Australia,SA,-35.7661,137.8681,3.0
+5222,Cuttlefish Bay,South Australia,SA,-35.7661,137.8681,3.0
+5222,Dudley East,South Australia,SA,-35.7661,137.8681,3.0
+5222,Willson River,South Australia,SA,-35.7661,137.8681,3.0
+5222,American Beach,South Australia,SA,-35.7661,137.8681,3.0
+5222,Porky Flat,South Australia,SA,-35.7661,137.8681,3.0
+5222,Willoughby,South Australia,SA,-35.7661,137.8681,3.0
+5223,North Cape,South Australia,SA,-35.5808,137.595,4.0
+5223,D'Estrees Bay,South Australia,SA,-35.928,137.5742,4.0
+5223,Kingscote,South Australia,SA,-35.6559,137.6393,4.0
+5223,Newland,South Australia,SA,-35.8717,137.1212,4.0
+5223,Seddon,South Australia,SA,-35.8359,137.2923,4.0
+5223,Emu Bay,South Australia,SA,-35.5984,137.5059,4.0
+5223,Vivonne Bay,South Australia,SA,-35.9826,137.1771,4.0
+5223,Kohinoor,South Australia,SA,-35.6801,137.5345,3.0
+5223,Brownlow Ki,South Australia,SA,-35.6714,137.6071,4.0
+5223,Bay Of Shoals,South Australia,SA,-35.6801,137.5345,3.0
+5223,Wisanger,South Australia,SA,-35.6333,137.4667,4.0
+5223,Karatta,South Australia,SA,-35.9284,136.8972,4.0
+5223,Cygnet River,South Australia,SA,-35.7,137.5167,4.0
+5223,Cape Borda,South Australia,SA,-35.6801,137.5345,3.0
+5223,Stokes Bay,South Australia,SA,-35.6294,137.2034,4.0
+5223,Haines,South Australia,SA,-35.6801,137.5345,3.0
+5223,De Mole River,South Australia,SA,-35.6801,137.5345,3.0
+5223,Gosse,South Australia,SA,-35.6801,137.5345,3.0
+5223,Birchmore,South Australia,SA,-35.6801,137.5345,3.0
+5223,Nepean Bay,South Australia,SA,-35.6801,137.5345,3.0
+5223,Macgillivray,South Australia,SA,-35.6801,137.5345,3.0
+5223,Menzies,South Australia,SA,-35.6801,137.5345,3.0
+5223,Flinders Chase,South Australia,SA,-35.6801,137.5345,3.0
+5223,Cassini,South Australia,SA,-35.6801,137.5345,3.0
+5223,Stun'Sail Boom,South Australia,SA,-35.6801,137.5345,3.0
+5223,Seal Bay,South Australia,SA,-35.6801,137.5345,3.0
+5223,Middle River,South Australia,SA,-35.6801,137.5345,3.0
+5223,Western River,South Australia,SA,-35.6801,137.5345,3.0
+5223,Duncan,South Australia,SA,-35.6801,137.5345,3.0
+5231,Chain Of Ponds,South Australia,SA,-34.8225,138.8335,4.0
+5231,Kersbrook,South Australia,SA,-34.7831,138.8509,4.0
+5231,Millbrook,South Australia,SA,-34.7999,138.8421,3.0
+5232,Cudlee Creek,South Australia,SA,-34.8409,138.8284,4.0
+5233,Gumeracha,South Australia,SA,-34.8239,138.8847,4.0
+5233,Forreston,South Australia,SA,-34.7814,138.9181,4.0
+5234,Birdwood,South Australia,SA,-34.8183,138.9648,4.0
+5235,Flaxman Valley,South Australia,SA,-34.7247,139.0596,3.0
+5235,Springton,South Australia,SA,-34.7074,139.0893,4.0
+5235,Taunton,South Australia,SA,-34.7247,139.0596,3.0
+5235,Mount Pleasant,South Australia,SA,-34.7749,139.0491,4.0
+5235,Cromer,South Australia,SA,-34.7627,138.9901,4.0
+5235,Eden Valley,South Australia,SA,-34.65,139.1,4.0
+5236,Tungkillo,South Australia,SA,-34.8167,139.0667,4.0
+5237,Sanderston,South Australia,SA,-34.7554,139.2219,4.0
+5237,Milendella,South Australia,SA,-34.8167,139.2,4.0
+5237,Palmer,South Australia,SA,-34.85,139.1667,4.0
+5237,Apamurra,South Australia,SA,-34.8056,139.1944,3.0
+5238,Bowhill,South Australia,SA,-34.9,139.6167,4.0
+5238,Ponde,South Australia,SA,-34.95,139.3167,4.0
+5238,Purnong,South Australia,SA,-34.8667,139.6167,4.0
+5238,Frayville,South Australia,SA,-34.8411,139.4865,3.0
+5238,Caurnamont,South Australia,SA,-34.8431,139.5874,4.0
+5238,Nildottie,South Australia,SA,-34.6764,139.6517,4.0
+5238,Purnong Landing,South Australia,SA,-34.8667,139.6167,4.0
+5238,Five Miles,South Australia,SA,-34.8411,139.4865,3.0
+5238,Younghusband Holdings,South Australia,SA,-34.8411,139.4865,3.0
+5238,Angas Valley,South Australia,SA,-34.7667,139.3,4.0
+5238,Teal Flat,South Australia,SA,-34.8936,139.5564,4.0
+5238,Julanka Holdings,South Australia,SA,-34.8411,139.4865,3.0
+5238,Walker Flat,South Australia,SA,-34.7526,139.5565,4.0
+5238,Pompoota,South Australia,SA,-35.0,139.3333,4.0
+5238,Wongulla,South Australia,SA,-34.7049,139.5659,4.0
+5238,Frahns,South Australia,SA,-34.8411,139.4865,3.0
+5238,Rocky Point,South Australia,SA,-34.8411,139.4865,3.0
+5238,Younghusband,South Australia,SA,-34.8411,139.4865,3.0
+5238,Forster,South Australia,SA,-34.7334,139.5548,4.0
+5238,Port Mannum,South Australia,SA,-34.8411,139.4865,3.0
+5238,Mannum,South Australia,SA,-34.9153,139.3033,4.0
+5238,Bolto,South Australia,SA,-34.8411,139.4865,3.0
+5238,Old Teal Flat,South Australia,SA,-34.8411,139.4865,3.0
+5238,Big Bend,South Australia,SA,-34.8411,139.4865,3.0
+5238,Punthari,South Australia,SA,-34.8167,139.3167,4.0
+5238,Cowirra,South Australia,SA,-34.9,139.3333,4.0
+5238,Pellaring Flat,South Australia,SA,-34.862,139.3899,4.0
+5238,Lake Carlet,South Australia,SA,-34.8411,139.4865,3.0
+5238,Claypans,South Australia,SA,-34.8167,139.6667,4.0
+5240,Lenswood,South Australia,SA,-34.9182,138.8326,4.0
+5241,Lobethal,South Australia,SA,-34.9045,138.8748,4.0
+5242,Balhannah,South Australia,SA,-34.9909,138.8257,4.0
+5243,Oakbank,South Australia,SA,-34.9834,138.8453,4.0
+5244,Inverbrackie,South Australia,SA,-34.9734,138.8917,4.0
+5244,Charleston,South Australia,SA,-34.9167,138.9,4.0
+5244,Mount Torrens,South Australia,SA,-34.8755,138.9586,4.0
+5244,Woodside,South Australia,SA,-34.9543,138.879,4.0
+5244,Harrogate,South Australia,SA,-34.95,139.0167,4.0
+5245,Paechtown,South Australia,SA,-35.049,138.8089,4.0
+5245,Hahndorf,South Australia,SA,-35.0286,138.8078,4.0
+5245,Verdun,South Australia,SA,-35.0,138.7833,4.0
+5246,Woodhouse,South Australia,SA,-34.9614,138.8661,1.0
+5250,Littlehampton,South Australia,SA,-35.05,138.85,4.0
+5250,Blakiston,South Australia,SA,-35.0421,138.8815,4.0
+5250,Totness,South Australia,SA,-35.05,138.8667,3.0
+5251,Mount Barker Junction,South Australia,SA,-35.0253,138.8683,4.0
+5251,Mount Barker Springs,South Australia,SA,-35.079,138.8637,3.0
+5251,Bugle Ranges,South Australia,SA,-35.1327,138.8716,4.0
+5251,Mount Barker Summit,South Australia,SA,-35.079,138.8637,3.0
+5251,Mount Barker,South Australia,SA,-35.0667,138.8667,4.0
+5251,Wistow,South Australia,SA,-35.1,138.8667,4.0
+5252,Nairne,South Australia,SA,-35.0345,138.9115,4.0
+5252,Brukunga,South Australia,SA,-35.0029,138.9425,4.0
+5252,Dawesley,South Australia,SA,-35.0419,138.9535,4.0
+5252,Kanmantoo,South Australia,SA,-35.0701,139.0127,4.0
+5252,St Ives,South Australia,SA,-35.0367,138.9559,3.0
+5252,Hay Valley,South Australia,SA,-35.0367,138.9559,3.0
+5253,Brinkley,South Australia,SA,-35.23,139.2221,4.0
+5253,Riverglen,South Australia,SA,-35.17,139.3085,4.0
+5253,Ettrick,South Australia,SA,-35.0,139.5667,4.0
+5253,Murray Bridge East,South Australia,SA,-35.1339,139.3678,3.0
+5253,White Sands,South Australia,SA,-35.1339,139.3678,3.0
+5253,Northern Heights,South Australia,SA,-35.1339,139.3678,3.0
+5253,Swanport,South Australia,SA,-35.15,139.3,4.0
+5253,Murray Bridge,South Australia,SA,-35.1199,139.2735,4.0
+5253,Chapman Bore,South Australia,SA,-35.1275,139.5517,4.0
+5253,Murrawong,South Australia,SA,-35.1339,139.3678,3.0
+5253,Monteith,South Australia,SA,-35.1667,139.3,4.0
+5253,Mobilong,South Australia,SA,-35.1339,139.3678,3.0
+5253,Sunnyside,South Australia,SA,-35.1339,139.3678,3.0
+5253,Willow Banks,South Australia,SA,-35.1339,139.3678,3.0
+5253,Riverglades,South Australia,SA,-35.1339,139.3678,3.0
+5253,Murray Bridge North,South Australia,SA,-35.1339,139.3678,3.0
+5253,Toora,South Australia,SA,-35.1339,139.3678,3.0
+5253,Murray Bridge South,South Australia,SA,-35.1339,139.3678,3.0
+5253,Long Flat,South Australia,SA,-35.1339,139.3678,3.0
+5253,Gifford Hill,South Australia,SA,-35.1339,139.3678,3.0
+5253,Greenbanks,South Australia,SA,-35.1339,139.3678,3.0
+5253,Avoca Dell,South Australia,SA,-35.1339,139.3678,3.0
+5253,Burdett,South Australia,SA,-35.1339,139.3678,3.0
+5253,Woods Point,South Australia,SA,-35.1339,139.3678,3.0
+5254,Murray Bridge,South Australia,SA,-35.1199,139.2735,4.0
+5254,Wall Flat,South Australia,SA,-34.9667,139.3167,4.0
+5254,Caloote,South Australia,SA,-34.9642,139.2622,4.0
+5254,White Hill,South Australia,SA,-35.0406,139.1998,3.0
+5254,Monarto South,South Australia,SA,-35.122,139.129,4.0
+5254,Mypolonga,South Australia,SA,-35.05,139.35,4.0
+5254,Pallamana,South Australia,SA,-35.0344,139.2059,4.0
+5254,Woodlane,South Australia,SA,-35.0406,139.1998,3.0
+5254,Monarto,South Australia,SA,-35.05,139.1333,4.0
+5254,Rocky Gully,South Australia,SA,-35.0406,139.1998,3.0
+5254,Tepko,South Australia,SA,-34.969,139.1878,4.0
+5254,Petwood,South Australia,SA,-35.0406,139.1998,3.0
+5254,Callington,South Australia,SA,-35.1198,139.0414,4.0
+5254,Zadows Landing,South Australia,SA,-35.0406,139.1998,3.0
+5254,Rockleigh,South Australia,SA,-35.0,139.1167,4.0
+5255,Woodchester,South Australia,SA,-35.2167,138.95,4.0
+5255,Tooperang,South Australia,SA,-35.3833,138.7333,4.0
+5255,Mount Observation,South Australia,SA,-35.2918,138.9315,3.0
+5255,Finniss,South Australia,SA,-35.4,138.8167,4.0
+5255,Mulgundawa,South Australia,SA,-35.2918,138.9315,3.0
+5255,Belvidere,South Australia,SA,-35.2914,138.9474,4.0
+5255,Gemmells,South Australia,SA,-35.2918,138.9315,3.0
+5255,Lake Plains,South Australia,SA,-35.3704,139.0417,4.0
+5255,Langhorne Creek,South Australia,SA,-35.296,139.0359,4.0
+5255,Red Creek,South Australia,SA,-35.1587,138.9757,4.0
+5255,Salem,South Australia,SA,-35.2918,138.9315,3.0
+5255,Bletchley,South Australia,SA,-35.2408,138.9855,4.0
+5255,Strathalbyn,South Australia,SA,-35.2598,138.8925,4.0
+5255,Sandergrove,South Australia,SA,-35.3333,138.8333,4.0
+5255,Nalpa,South Australia,SA,-35.2918,138.9315,3.0
+5255,Angas Plains,South Australia,SA,-35.35,139.0,4.0
+5255,Highland Valley,South Australia,SA,-35.2918,138.9315,3.0
+5255,Hartley,South Australia,SA,-35.2,139.0,4.0
+5255,Willyaroo,South Australia,SA,-35.2667,138.9167,4.0
+5256,Clayton Bay,South Australia,SA,-35.4905,138.9207,4.0
+5256,Tolderol,South Australia,SA,-35.4768,138.9608,3.0
+5256,Point Sturt,South Australia,SA,-35.5167,139.0333,4.0
+5256,Clayton,South Australia,SA,-35.4905,138.9207,4.0
+5256,Milang,South Australia,SA,-35.4078,138.9712,4.0
+5256,Nurragi,South Australia,SA,-35.4768,138.9608,3.0
+5259,Tailem Bend,South Australia,SA,-35.2523,139.4555,4.0
+5259,Wellington,South Australia,SA,-35.35,139.3833,4.0
+5259,Narrung,South Australia,SA,-35.5122,139.1685,4.0
+5259,Wellington East,South Australia,SA,-35.3333,139.4,4.0
+5259,Ashville,South Australia,SA,-35.5106,139.3656,4.0
+5259,Kepa,South Australia,SA,-35.3711,139.3611,3.0
+5259,Jervois,South Australia,SA,-35.2667,139.4333,4.0
+5259,Point Mcleay,South Australia,SA,-35.5333,139.1,4.0
+5259,Naturi,South Australia,SA,-35.1973,139.5846,4.0
+5259,Raukkan,South Australia,SA,-35.4358,139.2417,3.0
+5259,Poltalloch,South Australia,SA,-35.3711,139.3611,3.0
+5259,Malinong,South Australia,SA,-35.3711,139.3611,3.0
+5260,Tailem Bend,South Australia,SA,-35.2523,139.4555,4.0
+5260,Elwomple,South Australia,SA,-35.2523,139.4555,3.0
+5261,Yumali,South Australia,SA,-35.5084,139.7578,4.0
+5261,Ki Ki,South Australia,SA,-35.5833,139.8,4.0
+5261,Culburra,South Australia,SA,-35.8134,139.9649,4.0
+5261,Cooke Plains,South Australia,SA,-35.3797,139.5617,4.0
+5261,Coomandook,South Australia,SA,-35.4735,139.6963,4.0
+5262,Binnum,South Australia,SA,-36.7951,140.9375,4.0
+5262,Frances,South Australia,SA,-36.7167,140.9667,4.0
+5262,Kybybolite,South Australia,SA,-36.8833,140.9167,4.0
+5262,Hynam,South Australia,SA,-36.95,140.85,4.0
+5263,Coonawarra,South Australia,SA,-37.2906,140.8344,4.0
+5264,Meningie East,South Australia,SA,-35.8184,139.4684,3.0
+5264,Meningie,South Australia,SA,-35.6864,139.3401,4.0
+5264,Coorong,South Australia,SA,-35.8184,139.4684,3.0
+5264,Waltowa,South Australia,SA,-35.624,139.4327,4.0
+5264,Meningie West,South Australia,SA,-35.8184,139.4684,3.0
+5264,Salt Creek,South Australia,SA,-36.15,139.6333,4.0
+5265,Field,South Australia,SA,-35.8224,139.6652,4.0
+5265,Coonalpyn,South Australia,SA,-35.6942,139.8578,4.0
+5266,Deepwater,South Australia,SA,-35.8871,140.0565,3.0
+5266,Tintinara,South Australia,SA,-35.8871,140.0565,4.0
+5266,Bunbury,South Australia,SA,-35.8871,140.0565,3.0
+5266,Colebatch,South Australia,SA,-35.8871,140.0565,3.0
+5267,Coombe,South Australia,SA,-35.962,140.2192,4.0
+5267,Mount Charles,South Australia,SA,-36.1495,140.4682,3.0
+5267,Petherick,South Australia,SA,-36.1495,140.4682,3.0
+5267,Wirrega,South Australia,SA,-36.2064,140.5831,4.0
+5267,Sherwood,South Australia,SA,-36.1495,140.4682,3.0
+5267,Keith,South Australia,SA,-36.0991,140.3531,4.0
+5267,Shaugh,South Australia,SA,-36.1495,140.4682,3.0
+5267,Mccallum,South Australia,SA,-36.1495,140.4682,3.0
+5267,Brimbago,South Australia,SA,-36.1495,140.4682,3.0
+5267,Laffer,South Australia,SA,-36.1495,140.4682,3.0
+5267,Willalooka,South Australia,SA,-36.3935,140.3081,4.0
+5267,Makin,South Australia,SA,-36.1495,140.4682,3.0
+5268,Lowan Vale,South Australia,SA,-36.1788,140.6703,4.0
+5268,Western Flat,South Australia,SA,-36.2959,140.7423,3.0
+5268,Cannawigara,South Australia,SA,-36.25,140.6667,4.0
+5268,Bordertown South,South Australia,SA,-36.3077,140.7717,4.0
+5268,Senior,South Australia,SA,-36.2959,140.7423,3.0
+5268,Bordertown,South Australia,SA,-36.3077,140.7717,4.0
+5268,Pooginagoric,South Australia,SA,-36.4333,140.8333,4.0
+5268,Bangham,South Australia,SA,-36.2959,140.7423,3.0
+5269,Pine Hill,South Australia,SA,-32.1717,133.7971,3.0
+5269,Wolseley,South Australia,SA,-36.3667,140.9,4.0
+5269,Custon,South Australia,SA,-36.45,140.9167,4.0
+5270,Buckingham,South Australia,SA,-36.3444,140.5818,4.0
+5270,Kongal,South Australia,SA,-36.3167,140.5167,4.0
+5270,Carew,South Australia,SA,-36.3444,140.5944,3.0
+5270,Mundulla,South Australia,SA,-36.3667,140.6833,4.0
+5270,Mundulla West,South Australia,SA,-36.3444,140.5944,3.0
+5270,Swede Flat,South Australia,SA,-36.3444,140.5944,3.0
+5271,Bool Lagoon,South Australia,SA,-37.1392,140.7218,4.0
+5271,Laurie Park,South Australia,SA,-36.9763,140.6925,3.0
+5271,Keppoch,South Australia,SA,-36.7,140.5667,4.0
+5271,Moyhall,South Australia,SA,-36.9763,140.6925,3.0
+5271,Naracoorte,South Australia,SA,-36.9578,140.7383,4.0
+5271,Struan,South Australia,SA,-37.0945,140.791,4.0
+5271,Padthaway,South Australia,SA,-36.5963,140.4996,4.0
+5271,Koppamurra,South Australia,SA,-36.9763,140.6925,3.0
+5271,Joanna,South Australia,SA,-37.1,140.8333,4.0
+5271,Lochaber,South Australia,SA,-36.8333,140.5167,4.0
+5271,Cadgee,South Australia,SA,-36.9763,140.6925,3.0
+5271,Wrattonbully,South Australia,SA,-36.9763,140.6925,3.0
+5271,Spence,South Australia,SA,-36.9763,140.6925,3.0
+5271,Mount Light,South Australia,SA,-36.9763,140.6925,3.0
+5271,Wild Dog Valley,South Australia,SA,-36.9763,140.6925,3.0
+5271,Marcollat,South Australia,SA,-36.9763,140.6925,3.0
+5271,The Gap,South Australia,SA,-36.9763,140.6925,3.0
+5271,Stewart Range,South Australia,SA,-36.9763,140.6925,3.0
+5272,Lucindale,South Australia,SA,-36.9727,140.3701,4.0
+5272,Woolumbool,South Australia,SA,-37.0906,140.3179,3.0
+5272,Conmurra,South Australia,SA,-37.15,140.2833,4.0
+5272,Coles,South Australia,SA,-37.0906,140.3179,3.0
+5272,Fox,South Australia,SA,-33.5964,135.7086,4.0
+5272,Greenways,South Australia,SA,-34.6586,139.6446,4.0
+5273,Avenue Range,South Australia,SA,-36.9667,140.2333,4.0
+5275,Rosetown,South Australia,SA,-36.8333,139.85,4.0
+5275,Pinks Beach,South Australia,SA,-37.0028,140.0667,3.0
+5275,Boatswain Point,South Australia,SA,-37.0028,140.0667,3.0
+5275,Keilira,South Australia,SA,-36.7167,140.15,4.0
+5275,West Range,South Australia,SA,-37.6667,140.5833,4.0
+5275,Kingston Se,South Australia,SA,-37.0028,140.0667,3.0
+5275,Blackford,South Australia,SA,-36.7667,140.0167,4.0
+5275,Taratap,South Australia,SA,-37.0028,140.0667,3.0
+5275,Tilley Swamp,South Australia,SA,-37.0028,140.0667,3.0
+5275,Kingston S.E.,South Australia,SA,-36.5102,139.9281,3.0
+5275,Wangolina,South Australia,SA,-37.0028,140.0667,3.0
+5275,Mount Benson,South Australia,SA,-37.0833,139.7833,4.0
+5275,Reedy Creek,South Australia,SA,-36.95,140.0167,4.0
+5275,Sandy Grove,South Australia,SA,-37.0028,140.0667,3.0
+5275,Cape Jaffa,South Australia,SA,-36.9455,139.6982,4.0
+5275,Wyomi,South Australia,SA,-37.0028,140.0667,3.0
+5276,Nora Creina,South Australia,SA,-37.3256,139.8523,4.0
+5276,Robe,South Australia,SA,-37.1639,139.7603,4.0
+5276,Bray,South Australia,SA,-37.2461,139.8082,3.0
+5277,Pleasant Park,South Australia,SA,-37.4131,140.8494,3.0
+5277,Glenroy,South Australia,SA,-37.25,140.85,4.0
+5277,Penola,South Australia,SA,-37.3752,140.8368,4.0
+5277,Comaum,South Australia,SA,-37.2667,140.95,4.0
+5277,Maaoupe,South Australia,SA,-37.4131,140.8494,3.0
+5277,Tarpeena,South Australia,SA,-37.6277,140.7959,4.0
+5277,Monbulla,South Australia,SA,-37.4131,140.8494,3.0
+5277,Nangwarry,South Australia,SA,-37.546,140.8145,4.0
+5278,Kalangadoo,South Australia,SA,-37.5648,140.6992,4.0
+5278,Wepar,South Australia,SA,-37.6083,140.7077,4.0
+5278,Krongart,South Australia,SA,-37.5908,140.6996,3.0
+5278,Moerlong,South Australia,SA,-37.5908,140.6996,3.0
+5279,Mount Burr,South Australia,SA,-37.542,140.4555,4.0
+5279,Trihi,South Australia,SA,-37.5436,140.4452,3.0
+5279,Wattle Range East,South Australia,SA,-37.546,140.5028,3.0
+5279,Short,South Australia,SA,-37.546,140.5028,3.0
+5279,Mount Mcintyre,South Australia,SA,-37.5608,140.5373,4.0
+5279,Koorine,South Australia,SA,-37.546,140.5028,3.0
+5280,Beachport,South Australia,SA,-37.4802,140.0107,4.0
+5280,Millicent,South Australia,SA,-37.5939,140.3495,4.0
+5280,Tantanoola,South Australia,SA,-37.6966,140.4575,4.0
+5280,Clay Wells,South Australia,SA,-37.5441,140.251,3.0
+5280,Furner,South Australia,SA,-37.4167,140.3333,4.0
+5280,Sebastopol,South Australia,SA,-37.5441,140.251,3.0
+5280,Rendelsham,South Australia,SA,-37.55,140.2167,4.0
+5280,German Flat,South Australia,SA,-37.5441,140.251,3.0
+5280,Southend,South Australia,SA,-37.5678,140.1287,4.0
+5280,Thornlea,South Australia,SA,-37.5441,140.251,3.0
+5280,Hatherleigh,South Australia,SA,-37.5,140.2667,4.0
+5280,Canunda,South Australia,SA,-37.5441,140.251,3.0
+5280,Wattle Range,South Australia,SA,-37.5441,140.251,3.0
+5280,Kangaroo Inn,South Australia,SA,-37.5441,140.251,3.0
+5280,Magarey,South Australia,SA,-37.5441,140.251,3.0
+5280,Rocky Camp,South Australia,SA,-37.5441,140.251,3.0
+5290,Mount Gambier,South Australia,SA,-37.8318,140.7792,4.0
+5291,Glencoe West,South Australia,SA,-37.6667,140.5833,4.0
+5291,German Creek,South Australia,SA,-37.8571,140.6831,3.0
+5291,Caveton,South Australia,SA,-37.8571,140.6831,3.0
+5291,Allendale East,South Australia,SA,-38.0037,140.7092,4.0
+5291,Worrolong,South Australia,SA,-37.8062,140.848,4.0
+5291,Compton,South Australia,SA,-37.7667,140.6833,4.0
+5291,Eight Mile Creek,South Australia,SA,-37.8571,140.6831,3.0
+5291,Yahl,South Australia,SA,-37.8667,140.8,4.0
+5291,Mount Gambier,South Australia,SA,-37.8318,140.7792,4.0
+5291,Nene Valley,South Australia,SA,-37.9895,140.5204,4.0
+5291,Pelican Point,South Australia,SA,-37.8571,140.6831,3.0
+5291,Mount Schank,South Australia,SA,-37.9399,140.7241,4.0
+5291,Glencoe,South Australia,SA,-37.7,140.6167,4.0
+5291,Kongorong,South Australia,SA,-37.9,140.55,4.0
+5291,Square Mile,South Australia,SA,-37.8571,140.6831,3.0
+5291,Wandilo,South Australia,SA,-37.7259,140.7257,4.0
+5291,Mil-Lel,South Australia,SA,-37.7833,140.8167,4.0
+5291,Carpenter Rocks,South Australia,SA,-37.9102,140.3956,4.0
+5291,Suttontown,South Australia,SA,-37.8571,140.6831,3.0
+5291,Caroline,South Australia,SA,-37.8969,140.9214,4.0
+5291,O.B. Flat,South Australia,SA,-37.8265,140.7066,3.0
+5291,Burrungule,South Australia,SA,-37.7809,140.574,4.0
+5291,Mingbool,South Australia,SA,-37.8571,140.6831,3.0
+5291,Port Macdonnell,South Australia,SA,-38.0531,140.6996,4.0
+5291,Donovans,South Australia,SA,-38.0135,140.9621,3.0
+5291,Glenburnie,South Australia,SA,-37.8394,140.8588,4.0
+5291,Moorak,South Australia,SA,-37.8641,140.7375,3.0
+5291,Blackfellows Caves,South Australia,SA,-37.9467,140.4685,4.0
+5291,Dismal Swamp,South Australia,SA,-37.8571,140.6831,3.0
+5291,Mount Gambier West,South Australia,SA,-37.8265,140.7066,3.0
+5291,Mount Gambier East,South Australia,SA,-37.8265,140.7066,3.0
+5291,Cape Douglas,South Australia,SA,-37.8571,140.6831,3.0
+5291,Racecourse Bay,South Australia,SA,-37.8571,140.6831,3.0
+5291,Ob Flat,South Australia,SA,-37.8571,140.6831,3.0
+5291,Wye,South Australia,SA,-37.8571,140.6831,3.0
+5301,Moorlands,South Australia,SA,-35.2899,139.6455,4.0
+5301,Sherlock,South Australia,SA,-35.3167,139.8167,4.0
+5301,Wilkawatt,South Australia,SA,-35.3673,140.3601,4.0
+5301,Carcuma,South Australia,SA,-35.3771,140.0271,3.0
+5301,Parrakie,South Australia,SA,-35.3833,140.25,4.0
+5301,Jabuk,South Australia,SA,-35.4,140.0667,4.0
+5301,Peake,South Australia,SA,-35.3667,139.95,4.0
+5301,Geranium,South Australia,SA,-35.3833,140.1667,4.0
+5301,Netherton,South Australia,SA,-35.4751,139.9474,4.0
+5302,Ngarkat,South Australia,SA,-35.329,140.5167,3.0
+5302,Lameroo,South Australia,SA,-35.329,140.5167,4.0
+5303,Parilla,South Australia,SA,-35.3,140.6667,4.0
+5304,Pinnaroo,South Australia,SA,-35.2616,140.912,4.0
+5304,Karte,South Australia,SA,-35.0667,140.7,4.0
+5304,Kringin,South Australia,SA,-34.9833,140.7833,4.0
+5304,Peebinga,South Australia,SA,-34.9333,140.9167,4.0
+5306,Wynarka,South Australia,SA,-35.1333,139.7333,4.0
+5307,Karoonda,South Australia,SA,-35.0945,139.8934,4.0
+5307,Marama,South Australia,SA,-35.1833,140.1833,4.0
+5308,Galga,South Australia,SA,-34.6994,139.9646,4.0
+5308,Copeville,South Australia,SA,-34.7973,139.8431,4.0
+5308,Perponda,South Australia,SA,-34.9875,139.8122,4.0
+5308,Mantung,South Australia,SA,-34.6,140.0667,4.0
+5308,Mercunda,South Australia,SA,-34.65,140.0167,4.0
+5309,Mindarie,South Australia,SA,-34.8167,140.2167,4.0
+5309,Halidon,South Australia,SA,-34.8833,140.1667,4.0
+5309,Sandalwood,South Australia,SA,-34.95,140.1333,4.0
+5309,Borrika,South Australia,SA,-35.0167,140.05,4.0
+5310,Caliph,South Australia,SA,-34.6667,140.2833,4.0
+5310,Wanbi,South Australia,SA,-34.7667,140.3167,4.0
+5311,Taplan,South Australia,SA,-34.5444,140.8801,4.0
+5311,Malpas,South Australia,SA,-34.7167,140.6167,4.0
+5311,Bugle Hut,South Australia,SA,-34.3774,140.783,4.0
+5311,Maggea,South Australia,SA,-34.4833,140.0667,4.0
+5311,Veitch,South Australia,SA,-34.6667,140.5167,4.0
+5311,Woodleigh,South Australia,SA,-34.5682,140.7151,4.0
+5311,Meribah,South Australia,SA,-34.7034,140.8542,4.0
+5311,Taldra,South Australia,SA,-34.4228,140.8887,4.0
+5311,Alawoona,South Australia,SA,-34.7333,140.5167,4.0
+5311,Wunkar,South Australia,SA,-34.5,140.3,4.0
+5311,Schell Well,South Australia,SA,-34.6058,140.6087,3.0
+5311,Paruna,South Australia,SA,-34.7167,140.7333,4.0
+5311,Billiatt,South Australia,SA,-34.6058,140.6087,3.0
+5312,Veitch,South Australia,SA,-34.6667,140.5167,4.0
+5320,Stuart,South Australia,SA,-33.0249,137.5247,4.0
+5320,Eba,South Australia,SA,-34.0669,139.579,4.0
+5320,Beatty,South Australia,SA,-34.0991,139.659,3.0
+5320,Murbko,South Australia,SA,-34.1631,139.6629,4.0
+5320,Morgan,South Australia,SA,-34.0315,139.668,4.0
+5320,Beaumonts,South Australia,SA,-34.0991,139.659,3.0
+5320,Wombats Rest,South Australia,SA,-34.0991,139.659,3.0
+5320,North West Bend,South Australia,SA,-34.0991,139.659,3.0
+5320,Morphetts Flat,South Australia,SA,-34.0991,139.659,3.0
+5320,Brenda Park,South Australia,SA,-34.0991,139.659,3.0
+5320,Bundey,South Australia,SA,-34.0991,139.659,3.0
+5320,Maude,South Australia,SA,-34.0991,139.659,3.0
+5320,Lindley,South Australia,SA,-34.0991,139.659,3.0
+5321,Cadell,South Australia,SA,-34.0388,139.7639,4.0
+5321,Cadell Lagoon,South Australia,SA,-34.0333,139.75,3.0
+5322,Golden Heights,South Australia,SA,-34.1417,139.9,3.0
+5322,Sunlands,South Australia,SA,-34.1417,139.9,3.0
+5322,Ramco Heights,South Australia,SA,-34.1417,139.9,3.0
+5322,Ramco,South Australia,SA,-34.1667,139.9333,4.0
+5322,Qualco,South Australia,SA,-34.1103,139.8933,4.0
+5330,Wigley Flat,South Australia,SA,-34.1621,140.0839,3.0
+5330,Boolgun,South Australia,SA,-34.4173,140.04,4.0
+5330,Kanni,South Australia,SA,-34.1621,140.0839,3.0
+5330,Waikerie,South Australia,SA,-34.1818,139.9855,4.0
+5330,Devlins Pound,South Australia,SA,-34.1621,140.0839,3.0
+5330,Taylorville,South Australia,SA,-34.0989,139.9731,4.0
+5330,Pooginook,South Australia,SA,-34.1621,140.0839,3.0
+5330,Overland Corner,South Australia,SA,-34.1458,140.3343,4.0
+5330,Stockyard Plain,South Australia,SA,-34.1621,140.0839,3.0
+5330,Holder,South Australia,SA,-34.3267,140.0174,4.0
+5330,Markaranka,South Australia,SA,-34.1621,140.0839,3.0
+5330,Good Hope Landing,South Australia,SA,-34.1621,140.0839,3.0
+5330,Holder Siding,South Australia,SA,-34.1621,140.0839,3.0
+5330,Woolpunda,South Australia,SA,-34.1621,140.0839,3.0
+5330,Lowbank,South Australia,SA,-34.1943,140.0852,4.0
+5331,Kingston On Murray,South Australia,SA,-34.325,140.3517,1.0
+5331,Kingston-On-Murray,South Australia,SA,-34.2207,140.34,1.0
+5332,Moorook South,South Australia,SA,-34.2663,140.3566,4.0
+5332,Yinkanie,South Australia,SA,-34.3333,140.3167,4.0
+5332,Wappilka,South Australia,SA,-34.2886,140.3433,3.0
+5332,Moorook,South Australia,SA,-34.2663,140.3566,4.0
+5333,Pyap,South Australia,SA,-34.4353,140.4932,4.0
+5333,Bookpurnong,South Australia,SA,-34.4771,140.571,3.0
+5333,New Residence,South Australia,SA,-34.3787,140.4026,4.0
+5333,Pyap West,South Australia,SA,-34.4771,140.571,3.0
+5333,Taplan,South Australia,SA,-34.5444,140.8801,4.0
+5333,Loxton,South Australia,SA,-34.4502,140.5691,4.0
+5333,Pata,South Australia,SA,-34.5667,140.5167,4.0
+5333,Loxton North,South Australia,SA,-34.4183,140.6266,3.0
+5340,Wonuarra,South Australia,SA,-34.2156,140.8435,4.0
+5340,Paringa,South Australia,SA,-34.1764,140.7858,4.0
+5340,Yamba,South Australia,SA,-34.2623,140.8589,4.0
+5340,Murtho,South Australia,SA,-34.1764,140.7858,3.0
+5340,Pike River,South Australia,SA,-34.1764,140.7858,3.0
+5340,Mundic Creek,South Australia,SA,-34.1764,140.7858,3.0
+5341,Cooltong,South Australia,SA,-34.1006,140.6737,4.0
+5341,Renmark South,South Australia,SA,-34.2016,140.7106,3.0
+5341,Renmark West,South Australia,SA,-34.1653,140.7097,4.0
+5341,Renmark,South Australia,SA,-34.177,140.747,4.0
+5341,Crescent,South Australia,SA,-34.1481,140.704,3.0
+5341,Chaffey,South Australia,SA,-34.0934,140.7065,4.0
+5341,Renmark North,South Australia,SA,-34.1255,140.7127,4.0
+5341,Old Calperum,South Australia,SA,-34.2178,140.6803,4.0
+5342,Monash,South Australia,SA,-34.2384,140.5613,4.0
+5343,Lyrup,South Australia,SA,-34.2579,140.6482,4.0
+5343,Winkie,South Australia,SA,-34.3,140.5333,4.0
+5343,Berri,South Australia,SA,-34.2811,140.5996,4.0
+5343,Katarapko,South Australia,SA,-34.4424,140.559,4.0
+5343,Gerard,South Australia,SA,-34.2826,140.5943,3.0
+5343,Gurra Gurra,South Australia,SA,-34.2826,140.5943,3.0
+5344,Glossop,South Australia,SA,-34.2769,140.541,4.0
+5345,Spectacle Lake,South Australia,SA,-34.2695,140.4474,3.0
+5345,Barmera,South Australia,SA,-34.2556,140.4615,4.0
+5345,Loveday,South Australia,SA,-34.2833,140.4333,4.0
+5346,Cobdogla,South Australia,SA,-34.2438,140.4043,4.0
+5350,Sandy Creek,South Australia,SA,-34.5848,138.8205,3.0
+5350,Rosedale,South Australia,SA,-34.55,138.85,4.0
+5351,Cockatoo Valley,South Australia,SA,-34.6248,138.8365,4.0
+5351,Pewsey Vale,South Australia,SA,-34.6313,138.8964,3.0
+5351,Williamstown,South Australia,SA,-34.6721,138.8911,4.0
+5351,Lyndoch,South Australia,SA,-34.6012,138.8909,4.0
+5351,Altona,South Australia,SA,-34.5962,138.914,4.0
+5351,Barossa Goldfields,South Australia,SA,-34.6516,138.8354,4.0
+5351,Mount Crawford,South Australia,SA,-34.6667,138.95,4.0
+5352,Vine Vale,South Australia,SA,-34.5145,139.0054,4.0
+5352,Krondorf,South Australia,SA,-34.5413,138.9486,3.0
+5352,Rowland Flat,South Australia,SA,-34.5833,138.9333,4.0
+5352,Stone Well,South Australia,SA,-34.5358,138.8762,3.0
+5352,Tanunda,South Australia,SA,-34.5234,138.9598,4.0
+5352,Bethany,South Australia,SA,-34.5333,138.9667,4.0
+5352,Gomersal,South Australia,SA,-34.55,138.8833,4.0
+5353,Angaston,South Australia,SA,-34.5013,139.0462,4.0
+5353,Langs Landing,South Australia,SA,-34.5798,139.2255,3.0
+5353,Kongolia,South Australia,SA,-34.65,139.3667,4.0
+5353,Black Hill,South Australia,SA,-34.7027,139.4575,4.0
+5353,Towitta,South Australia,SA,-34.5333,139.25,4.0
+5353,Sunnydale,South Australia,SA,-34.5798,139.2255,3.0
+5353,Moculta,South Australia,SA,-34.4687,139.1186,4.0
+5353,Cambrai,South Australia,SA,-34.65,139.2833,4.0
+5353,Keyneton,South Australia,SA,-34.5542,139.1349,4.0
+5353,Marks Landing,South Australia,SA,-34.5798,139.2255,3.0
+5353,Mount Mckenzie,South Australia,SA,-34.565,139.0884,4.0
+5353,Sedan,South Australia,SA,-34.5833,139.3,4.0
+5353,Punyelroo,South Australia,SA,-34.5798,139.2255,3.0
+5353,Penrice,South Australia,SA,-34.5798,139.2255,3.0
+5354,Bakara,South Australia,SA,-34.6635,139.7823,4.0
+5354,Swan Reach,South Australia,SA,-34.5666,139.5975,4.0
+5354,Naidia,South Australia,SA,-34.5167,139.8167,4.0
+5354,Fisher,South Australia,SA,-34.5833,139.7269,3.0
+5354,Bakara Well,South Australia,SA,-34.5833,139.7269,3.0
+5355,Light Pass,South Australia,SA,-34.4716,139.0229,4.0
+5355,Moppa,South Australia,SA,-34.4167,139.95,4.0
+5355,Daveyston,South Australia,SA,-34.4692,138.8815,4.0
+5355,Ebenezer,South Australia,SA,-34.4537,139.1629,3.0
+5355,Marananga,South Australia,SA,-34.4856,138.9398,4.0
+5355,Nuriootpa,South Australia,SA,-34.4682,138.9977,4.0
+5355,Stockwell,South Australia,SA,-34.4346,139.0536,4.0
+5355,Seppeltsfield,South Australia,SA,-34.4617,138.9575,3.0
+5356,Annadale,South Australia,SA,-34.3914,139.3489,4.0
+5356,Truro,South Australia,SA,-34.4087,139.1274,4.0
+5356,Dutton,South Australia,SA,-34.3667,139.1333,4.0
+5356,Dutton East,South Australia,SA,-34.4033,139.24,3.0
+5356,Steinfeld,South Australia,SA,-34.4033,139.24,3.0
+5356,St Kitts,South Australia,SA,-34.4033,139.24,3.0
+5356,Stonefield,South Australia,SA,-34.3667,139.2833,4.0
+5356,Sandleton,South Australia,SA,-34.4667,139.3333,4.0
+5357,Notts Well,South Australia,SA,-34.4159,139.7875,4.0
+5357,Paisley,South Australia,SA,-34.3844,139.7604,3.0
+5357,Blanchetown,South Australia,SA,-34.3531,139.6145,4.0
+5357,Mcbean Pound,South Australia,SA,-34.3844,139.7604,3.0
+5357,New Well,South Australia,SA,-34.3874,139.9239,4.0
+5360,Greenock,South Australia,SA,-34.457,138.9272,4.0
+5360,Nain,South Australia,SA,-34.457,138.9272,3.0
+5371,Roseworthy,South Australia,SA,-34.534,138.7502,4.0
+5371,Shea-Oak Log,South Australia,SA,-34.5167,138.8167,4.0
+5371,Morn Hill,South Australia,SA,-34.5058,138.7723,3.0
+5371,Templers,South Australia,SA,-34.4684,138.7468,4.0
+5372,Freeling,South Australia,SA,-34.4541,138.8087,4.0
+5373,Fords,South Australia,SA,-34.3853,138.8749,4.0
+5373,Bethel,South Australia,SA,-34.3278,138.8376,4.0
+5373,Hamilton,South Australia,SA,-34.2167,138.8667,4.0
+5373,Allendale North,South Australia,SA,-34.3011,138.9147,4.0
+5373,St Johns,South Australia,SA,-34.3259,138.9,3.0
+5373,Koonunga,South Australia,SA,-34.3804,138.9902,4.0
+5373,Kapunda,South Australia,SA,-34.3387,138.9164,4.0
+5373,Bagot Well,South Australia,SA,-34.3259,138.9,3.0
+5374,Hampden,South Australia,SA,-34.15,139.05,4.0
+5374,Mount Mary,South Australia,SA,-34.1,139.4333,4.0
+5374,Frankton,South Australia,SA,-34.29,139.2054,4.0
+5374,Buchanan,South Australia,SA,-34.1453,139.1626,3.0
+5374,Julia,South Australia,SA,-34.1077,139.0204,4.0
+5374,Bower,South Australia,SA,-34.1241,139.3512,4.0
+5374,Brownlow,South Australia,SA,-34.2454,139.2693,4.0
+5374,Sutherlands,South Australia,SA,-34.1544,139.2223,4.0
+5374,Point Pass,South Australia,SA,-34.0757,139.0506,4.0
+5374,Eudunda,South Australia,SA,-34.177,139.0841,4.0
+5374,Australia Plains,South Australia,SA,-34.097,139.1562,4.0
+5374,Neales Flat,South Australia,SA,-34.1453,139.1626,3.0
+5374,Ngapala,South Australia,SA,-34.0714,138.9917,4.0
+5374,Peep Hill,South Australia,SA,-34.1459,139.1544,4.0
+5374,Hansborough,South Australia,SA,-34.1453,139.1626,3.0
+5381,Brady Creek,South Australia,SA,-33.9739,138.9816,4.0
+5381,Robertstown,South Australia,SA,-34.0,139.0667,4.0
+5381,Rocky Plain,South Australia,SA,-33.9277,139.0539,3.0
+5381,Worlds End,South Australia,SA,-33.8327,139.0567,4.0
+5381,Hallelujah Hills,South Australia,SA,-33.9277,139.0539,3.0
+5381,Geranium Plains,South Australia,SA,-33.9667,139.1667,4.0
+5381,Emu Downs,South Australia,SA,-33.9,138.9667,4.0
+5381,Bright,South Australia,SA,-33.9,139.0667,4.0
+5400,Magdala,South Australia,SA,-34.4699,138.6856,3.0
+5400,Pinkerton Plains,South Australia,SA,-34.4485,138.6731,3.0
+5400,Woolsheds,South Australia,SA,-34.4699,138.6856,3.0
+5400,Wasleys,South Australia,SA,-34.4699,138.6856,4.0
+5401,Alma,South Australia,SA,-34.2668,138.6304,4.0
+5401,Hamley Bridge,South Australia,SA,-34.3576,138.6807,4.0
+5401,Salter Springs,South Australia,SA,-34.1843,138.6347,4.0
+5410,Linwood,South Australia,SA,-34.3603,138.7679,4.0
+5410,Stockport,South Australia,SA,-34.334,138.732,4.0
+5411,Tarlee,South Australia,SA,-34.2716,138.7713,4.0
+5411,Giles Corner,South Australia,SA,-34.223,138.729,4.0
+5412,Woolshed Flat,South Australia,SA,-34.1442,138.7241,3.0
+5412,Riverton,South Australia,SA,-34.1551,138.7482,4.0
+5412,Navan,South Australia,SA,-34.1442,138.7241,3.0
+5412,Rhynie,South Australia,SA,-34.1483,138.6895,4.0
+5413,Marrabel,South Australia,SA,-34.15,138.8667,4.0
+5413,Waterloo,South Australia,SA,-33.9833,138.8667,4.0
+5413,Tothill Belt,South Australia,SA,-34.0457,138.8872,3.0
+5413,Apoinga,South Australia,SA,-33.9279,138.939,4.0
+5413,Black Springs,South Australia,SA,-33.9,138.9,4.0
+5413,Tarnma,South Australia,SA,-34.15,138.95,4.0
+5413,Saddleworth,South Australia,SA,-34.0826,138.7806,4.0
+5413,Steelton,South Australia,SA,-34.05,138.8833,4.0
+5413,Tothill Creek,South Australia,SA,-34.1,138.9167,4.0
+5414,Manoora,South Australia,SA,-34.0,138.8167,4.0
+5415,Stanley,South Australia,SA,-33.9167,138.7167,3.0
+5415,Mintaro,South Australia,SA,-33.9173,138.7215,4.0
+5416,Farrell Flat,South Australia,SA,-33.8295,138.7927,1.0
+5416,Porter Lagoon,South Australia,SA,-33.8857,138.8563,1.0
+5417,Mongolata,South Australia,SA,-33.5667,139.1,4.0
+5417,Burra,South Australia,SA,-33.6717,138.9283,4.0
+5417,Leighton,South Australia,SA,-33.65,138.75,4.0
+5417,Koonoona,South Australia,SA,-33.6138,138.8821,3.0
+5417,Booborowie,South Australia,SA,-33.5667,138.75,4.0
+5417,Gum Creek,South Australia,SA,-33.6138,138.8821,3.0
+5417,Baldina,South Australia,SA,-33.6138,138.8821,3.0
+5417,Hanson,South Australia,SA,-33.6138,138.8821,3.0
+5417,North Booborowie,South Australia,SA,-33.6138,138.8821,3.0
+5417,Burra Eastern Districts,South Australia,SA,-33.6138,138.8821,3.0
+5418,Mount Bryan,South Australia,SA,-33.4047,139.0184,4.0
+5418,Collinsville,South Australia,SA,-33.3333,139.15,4.0
+5419,Hallett,South Australia,SA,-33.4,138.8833,4.0
+5419,Canowie,South Australia,SA,-33.4,138.75,4.0
+5419,Mount Bryan East,South Australia,SA,-33.4047,139.0184,4.0
+5419,Wonna,South Australia,SA,-33.4,138.8833,3.0
+5419,Willalo,South Australia,SA,-33.4,138.8833,3.0
+5419,Pine Creek,South Australia,SA,-33.4,138.8833,3.0
+5419,Ulooloo,South Australia,SA,-33.4,138.8833,3.0
+5420,Canowie Belt,South Australia,SA,-33.1826,138.7625,4.0
+5420,Whyte Yarcowie,South Australia,SA,-33.2047,139.0367,3.0
+5421,Franklyn,South Australia,SA,-33.1352,139.0737,4.0
+5421,Terowie,South Australia,SA,-33.1667,138.9,4.0
+5422,Ucolta,South Australia,SA,-32.95,138.9667,4.0
+5422,Yatina,South Australia,SA,-32.9333,138.6667,4.0
+5422,Peterborough,South Australia,SA,-32.9721,138.8407,4.0
+5422,Erskine,South Australia,SA,-32.7333,138.85,4.0
+5422,Mannanarie,South Australia,SA,-33.0443,138.6185,4.0
+5422,Hardy,South Australia,SA,-32.8905,138.9224,3.0
+5422,Paratoo,South Australia,SA,-32.7326,139.3366,4.0
+5422,Minvalara,South Australia,SA,-32.9,138.75,4.0
+5422,Parnaroo,South Australia,SA,-32.9786,139.1553,4.0
+5422,Oodla Wirra,South Australia,SA,-32.8833,139.0667,4.0
+5422,Dawson,South Australia,SA,-32.8,138.9667,4.0
+5422,Cavenagh,South Australia,SA,-32.8905,138.9224,3.0
+5422,Sunnybrae,South Australia,SA,-32.8905,138.9224,3.0
+5431,Orroroo,South Australia,SA,-32.7344,138.6139,4.0
+5431,Black Rock,South Australia,SA,-32.8333,138.7,4.0
+5431,Amyton,South Australia,SA,-32.6,138.3333,4.0
+5431,Minburra,South Australia,SA,-32.6695,138.5539,3.0
+5431,Walloway,South Australia,SA,-32.6333,138.5833,4.0
+5431,Willowie,South Australia,SA,-32.6833,138.3333,4.0
+5431,Johnburgh,South Australia,SA,-32.45,138.7,4.0
+5431,Coomooroo,South Australia,SA,-32.6695,138.5539,3.0
+5431,Hammond,South Australia,SA,-32.5167,138.3167,4.0
+5431,Eurelia,South Australia,SA,-32.55,138.5667,4.0
+5431,Pekina,South Australia,SA,-32.8333,138.55,4.0
+5431,Yalpara,South Australia,SA,-32.5333,138.9333,4.0
+5431,Tarcowie,South Australia,SA,-32.95,138.5167,4.0
+5431,Morchard,South Australia,SA,-32.7167,138.5,4.0
+5432,Yanyarrie,South Australia,SA,-32.3042,138.5417,3.0
+5432,Carrieton,South Australia,SA,-32.4333,138.5333,4.0
+5432,Belton,South Australia,SA,-32.2333,138.7,4.0
+5432,Cradock,South Australia,SA,-32.0833,138.5,4.0
+5432,Moockra,South Australia,SA,-32.4667,138.4333,4.0
+5433,Quorn,South Australia,SA,-32.3468,138.0418,4.0
+5433,Stephenston,South Australia,SA,-32.3489,138.125,3.0
+5433,Willochra,South Australia,SA,-32.2333,138.1333,4.0
+5433,Yarrah,South Australia,SA,-32.3489,138.125,3.0
+5433,Bruce,South Australia,SA,-32.4667,138.2,4.0
+5433,Saltia,South Australia,SA,-32.3489,138.125,3.0
+5434,Hawker,South Australia,SA,-31.8892,138.42,4.0
+5434,Barndioota,South Australia,SA,-31.8892,138.42,3.0
+5434,Kanyaka,South Australia,SA,-31.8892,138.42,3.0
+5440,Waukaringa,South Australia,SA,-32.3,139.4333,4.0
+5440,Yunta,South Australia,SA,-32.5833,139.55,4.0
+5440,Nackara,South Australia,SA,-32.8,139.2333,4.0
+5440,Mingary,South Australia,SA,-32.1355,140.7367,4.0
+5440,Olary,South Australia,SA,-32.2829,140.3311,4.0
+5440,Cockburn,South Australia,SA,-32.0762,140.9902,4.0
+5440,Manna Hill,South Australia,SA,-32.433,139.9903,4.0
+5451,Auburn,South Australia,SA,-34.0269,138.6852,4.0
+5451,Undalya,South Australia,SA,-34.0667,138.6833,4.0
+5452,Watervale,South Australia,SA,-33.9942,138.6248,1.0
+5452,Leasingham,South Australia,SA,-33.9942,138.6248,1.0
+5453,Armagh,South Australia,SA,-33.825,138.5748,4.0
+5453,Hill River,South Australia,SA,-33.8972,138.5785,3.0
+5453,Clare,South Australia,SA,-33.8332,138.6106,4.0
+5453,Spring Farm,South Australia,SA,-33.8972,138.5785,3.0
+5453,Hoyleton,South Australia,SA,-34.0333,138.55,4.0
+5453,Stanley Flat,South Australia,SA,-33.8972,138.5785,3.0
+5453,Barinia,South Australia,SA,-33.8972,138.5785,3.0
+5453,Sevenhill,South Australia,SA,-33.8972,138.5785,3.0
+5453,Boconnoc Park,South Australia,SA,-33.8972,138.5785,3.0
+5453,Kybunga,South Australia,SA,-33.8972,138.5785,3.0
+5453,Penwortham,South Australia,SA,-33.8972,138.5785,3.0
+5453,Emu Flat,South Australia,SA,-33.8972,138.5785,3.0
+5453,Spring Gully,South Australia,SA,-33.8972,138.5785,3.0
+5453,Benbournie,South Australia,SA,-33.8972,138.5785,3.0
+5453,Gillentown,South Australia,SA,-33.8972,138.5785,3.0
+5453,Polish Hill River,South Australia,SA,-33.8972,138.5785,3.0
+5454,Spalding,South Australia,SA,-33.4979,138.6075,4.0
+5454,Mayfield,South Australia,SA,-34.0871,138.6347,3.0
+5454,Andrews,South Australia,SA,-34.6763,138.662,4.0
+5454,Hacklins Corner,South Australia,SA,-34.0871,138.6347,3.0
+5454,Washpool,South Australia,SA,-34.0871,138.6347,3.0
+5454,Euromina,South Australia,SA,-34.0871,138.6347,3.0
+5454,Broughton River Valley,South Australia,SA,-34.0871,138.6347,3.0
+5455,Hilltown,South Australia,SA,-33.8458,138.6125,1.0
+5460,Pinery,South Australia,SA,-34.3,138.45,4.0
+5460,Owen,South Australia,SA,-34.272,138.5444,4.0
+5460,Barabba,South Australia,SA,-34.345,138.5899,4.0
+5460,Stockyard Creek,South Australia,SA,-34.3003,138.5852,4.0
+5461,Goyder,South Australia,SA,-34.0851,138.3993,3.0
+5461,Stow,South Australia,SA,-33.9833,138.3667,4.0
+5461,Whitwarta,South Australia,SA,-34.1,138.3333,4.0
+5461,Saints,South Australia,SA,-34.15,138.3167,4.0
+5461,Hoskin Corner,South Australia,SA,-34.0851,138.3993,3.0
+5461,Bowillia,South Australia,SA,-33.95,138.4,4.0
+5461,Halbury,South Australia,SA,-34.0833,138.5167,4.0
+5461,Erith,South Australia,SA,-34.0851,138.3993,3.0
+5461,Dalkey,South Australia,SA,-34.1868,138.4384,4.0
+5461,Mount Templeton,South Australia,SA,-34.0851,138.3993,3.0
+5461,Balaklava,South Australia,SA,-34.1454,138.4115,4.0
+5461,Watchman,South Australia,SA,-34.0851,138.3993,3.0
+5461,Everard Central,South Australia,SA,-34.0851,138.3993,3.0
+5462,Blyth,South Australia,SA,-33.8486,138.4893,4.0
+5464,Anama,South Australia,SA,-33.7,138.4167,3.0
+5464,Condowie,South Australia,SA,-33.7667,138.3,4.0
+5464,Hart,South Australia,SA,-33.7,138.4167,3.0
+5464,Rochester,South Australia,SA,-33.6952,138.4853,4.0
+5464,Koolunga,South Australia,SA,-33.5833,138.3333,4.0
+5464,Bungaree,South Australia,SA,-33.7443,138.5609,4.0
+5464,Marola,South Australia,SA,-33.7,138.4167,3.0
+5464,Brinkworth,South Australia,SA,-33.6954,138.4035,4.0
+5470,Yacka,South Australia,SA,-33.5514,138.4805,1.0
+5471,Gulnare,South Australia,SA,-33.4672,138.443,4.0
+5472,Georgetown,South Australia,SA,-33.3667,138.4,4.0
+5473,Gladstone,South Australia,SA,-33.2669,138.3566,4.0
+5480,Stone Hut,South Australia,SA,-33.1176,138.3595,3.0
+5480,Appila,South Australia,SA,-33.05,138.4167,4.0
+5480,Laura,South Australia,SA,-33.1852,138.3023,4.0
+5481,Wirrabara,South Australia,SA,-33.0338,138.2692,4.0
+5481,Wongyarra,South Australia,SA,-32.9779,138.2175,3.0
+5481,Murray Town,South Australia,SA,-32.9333,138.2333,4.0
+5481,Bangor,South Australia,SA,-32.9667,138.15,4.0
+5482,Wepowie,South Australia,SA,-32.8333,138.4833,4.0
+5482,Booleroo Centre,South Australia,SA,-32.8799,138.3507,4.0
+5483,Melrose,South Australia,SA,-32.8253,138.1863,4.0
+5485,Wilmington,South Australia,SA,-32.6499,138.0981,4.0
+5490,Caltowie North,South Australia,SA,-33.1833,138.4833,3.0
+5490,Caltowie,South Australia,SA,-33.1833,138.4833,4.0
+5490,Caltowie West,South Australia,SA,-33.1833,138.4833,3.0
+5491,Hornsdale,South Australia,SA,-33.0681,138.5217,4.0
+5491,Bundaleer North,South Australia,SA,-33.136,138.5608,3.0
+5491,Jamestown,South Australia,SA,-33.2053,138.605,4.0
+5491,Bundaleer Gardens,South Australia,SA,-33.136,138.5608,3.0
+5491,Belalie North,South Australia,SA,-33.136,138.5608,3.0
+5491,West Bundaleer,South Australia,SA,-33.136,138.5608,3.0
+5491,Belalie East,South Australia,SA,-33.136,138.5608,3.0
+5493,Yongala,South Australia,SA,-34.9167,137.55,4.0
+5495,Baroota,South Australia,SA,-32.85,138.0333,4.0
+5495,Port Germein,South Australia,SA,-33.0216,138.0013,4.0
+5495,Mambray Creek,South Australia,SA,-32.8,137.9833,4.0
+5495,Nectar Brook,South Australia,SA,-32.7333,137.9333,4.0
+5495,Port Flinders,South Australia,SA,-33.1014,138.0357,3.0
+5495,Germein Bay,South Australia,SA,-32.8512,137.9878,3.0
+5501,Parham,South Australia,SA,-34.4333,138.2667,4.0
+5501,Webb Beach,South Australia,SA,-34.4493,138.3886,3.0
+5501,Dublin,South Australia,SA,-34.45,138.35,4.0
+5501,Calomba,South Australia,SA,-34.4493,138.3886,3.0
+5501,Wild Horse Plains,South Australia,SA,-34.3601,138.2933,4.0
+5501,Port Gawler,South Australia,SA,-34.504,138.4302,3.0
+5501,Lower Light,South Australia,SA,-34.5326,138.437,4.0
+5501,Middle Beach,South Australia,SA,-34.504,138.4302,3.0
+5501,Lewiston,South Australia,SA,-34.6045,138.5913,4.0
+5501,Thompson Beach,South Australia,SA,-34.4493,138.3886,3.0
+5501,Long Plains,South Australia,SA,-34.359,138.3783,4.0
+5501,Windsor,South Australia,SA,-34.4219,138.3308,4.0
+5501,Avon,South Australia,SA,-34.2839,138.336,4.0
+5501,Two Wells,South Australia,SA,-34.5933,138.5137,4.0
+5502,Mallala,South Australia,SA,-34.4374,138.5099,4.0
+5502,Korunye,South Australia,SA,-34.5124,138.5102,4.0
+5502,Grace Plains,South Australia,SA,-34.4902,138.5422,3.0
+5502,Reeves Plains,South Australia,SA,-34.5167,138.6,4.0
+5502,Redbanks,South Australia,SA,-34.4902,138.5422,3.0
+5502,Fischer,South Australia,SA,-34.4902,138.5422,3.0
+5510,Lochiel,South Australia,SA,-33.9333,138.1667,4.0
+5520,Bumbunga,South Australia,SA,-33.9167,138.2333,4.0
+5520,Burnsfield,South Australia,SA,-33.7327,138.1419,3.0
+5520,Wokurna,South Australia,SA,-33.7167,138.05,4.0
+5520,Barunga Gap,South Australia,SA,-33.5241,138.0404,4.0
+5520,Snowtown,South Australia,SA,-33.7808,138.2175,4.0
+5521,Redhill,South Australia,SA,-33.5333,138.2333,4.0
+5522,Fisherman Bay,South Australia,SA,-33.5594,137.9429,4.0
+5522,Ward Hill,South Australia,SA,-33.5801,137.9394,3.0
+5522,Port Broughton,South Australia,SA,-33.6007,137.936,4.0
+5523,Wandearah West,South Australia,SA,-33.3927,137.9731,4.0
+5523,Merriton,South Australia,SA,-33.45,138.15,4.0
+5523,Crystal Brook,South Australia,SA,-33.3526,138.2095,4.0
+5523,Clements Gap,South Australia,SA,-33.5241,138.0404,4.0
+5523,Beetaloo,South Australia,SA,-33.2333,138.2333,4.0
+5523,Narridy,South Australia,SA,-33.4333,138.3,4.0
+5523,Huddleston,South Australia,SA,-33.3949,138.171,3.0
+5523,Wandearah East,South Australia,SA,-33.3833,138.0667,4.0
+5523,Nurom,South Australia,SA,-33.3949,138.171,3.0
+5523,Wandearah,South Australia,SA,-33.3949,138.171,3.0
+5540,Bungama,South Australia,SA,-33.189,138.0451,3.0
+5540,Pirie East,South Australia,SA,-33.3833,138.0667,4.0
+5540,Risdon Park,South Australia,SA,-33.1966,137.994,4.0
+5540,Port Davis,South Australia,SA,-33.2667,137.8541,4.0
+5540,Port Pirie South,South Australia,SA,-33.1918,138.0175,3.0
+5540,Coonamia,South Australia,SA,-33.189,138.0451,3.0
+5540,Nelshaby,South Australia,SA,-33.1261,138.1105,4.0
+5540,Port Pirie West,South Australia,SA,-33.3927,137.9731,4.0
+5540,Port Pirie,South Australia,SA,-33.1918,138.0175,4.0
+5540,Risdon Park South,South Australia,SA,-33.1966,137.994,4.0
+5540,Solomontown,South Australia,SA,-33.2,138.0333,4.0
+5540,Warnertown,South Australia,SA,-33.189,138.0451,3.0
+5540,Telowie,South Australia,SA,-33.0549,138.0684,4.0
+5540,Lower Broughton,South Australia,SA,-33.189,138.0451,3.0
+5540,Napperby,South Australia,SA,-33.1574,138.1164,4.0
+5550,Inkerman,South Australia,SA,-34.2799,138.2378,4.0
+5550,Beaufort,South Australia,SA,-34.0833,138.2,4.0
+5550,Bowmans,South Australia,SA,-34.1589,138.2594,4.0
+5550,Nantawarra,South Australia,SA,-34.0167,138.2333,4.0
+5550,Port Wakefield,South Australia,SA,-34.1848,138.1453,4.0
+5550,Kallora,South Australia,SA,-34.1505,138.2203,3.0
+5550,Proof Range,South Australia,SA,-34.1505,138.2203,3.0
+5550,South Hummocks,South Australia,SA,-34.1505,138.2203,3.0
+5552,Paskeville,South Australia,SA,-34.0333,137.9,4.0
+5552,Melton,South Australia,SA,-34.0722,137.9444,3.0
+5552,Thrington,South Australia,SA,-34.0131,137.8294,4.0
+5552,Sunnyvale,South Australia,SA,-34.0722,137.9444,3.0
+5552,Kainton,South Australia,SA,-34.1233,137.9028,4.0
+5552,Port Arthur,South Australia,SA,-34.0722,137.9444,3.0
+5552,Kulpara,South Australia,SA,-34.0667,138.0333,4.0
+5554,Matta Flat,South Australia,SA,-33.9199,137.6638,3.0
+5554,Wallaroo Mines,South Australia,SA,-33.9725,137.6939,4.0
+5554,Jerusalem,South Australia,SA,-33.9735,137.711,3.0
+5554,Kadina,South Australia,SA,-33.965,137.7163,4.0
+5554,Willamulka,South Australia,SA,-34.005,137.711,3.0
+5554,Thomas Plain,South Australia,SA,-33.9637,137.9278,4.0
+5554,Boors Plain,South Australia,SA,-34.005,137.711,3.0
+5554,Cunliffe,South Australia,SA,-34.0833,137.7333,4.0
+5554,New Town,South Australia,SA,-33.9199,137.6638,3.0
+5554,Jericho,South Australia,SA,-33.9199,137.6638,3.0
+5555,Tickera,South Australia,SA,-33.7833,137.7,4.0
+5555,Mundoora,South Australia,SA,-33.6,138.0833,4.0
+5555,Alford,South Australia,SA,-33.8167,137.8167,4.0
+5555,Collinsfield,South Australia,SA,-33.7333,137.8667,3.0
+5555,Lake View,South Australia,SA,-33.8287,138.0507,3.0
+5555,Hope Gap,South Australia,SA,-33.7333,137.8667,3.0
+5556,North Beach,South Australia,SA,-33.9029,137.6329,4.0
+5556,Warburto,South Australia,SA,-34.0,137.6167,4.0
+5556,Wallaroo Plain,South Australia,SA,-33.9472,137.6277,3.0
+5556,Wallaroo,South Australia,SA,-33.9388,137.6337,4.0
+5558,Moonta Bay,South Australia,SA,-34.05,137.5667,4.0
+5558,Moonta Mines,South Australia,SA,-34.0779,137.6086,3.0
+5558,Moonta,South Australia,SA,-34.0684,137.5908,4.0
+5558,Hamley,South Australia,SA,-34.3576,138.6807,4.0
+5558,Paramatta,South Australia,SA,-34.1174,137.769,3.0
+5558,East Moonta,South Australia,SA,-34.1127,137.6609,3.0
+5558,Agery,South Australia,SA,-34.1568,137.7429,4.0
+5558,Kooroona,South Australia,SA,-34.1127,137.6609,3.0
+5558,Port Hughes,South Australia,SA,-34.0833,137.55,4.0
+5558,Nalyappa,South Australia,SA,-34.1127,137.6609,3.0
+5558,North Yelta,South Australia,SA,-34.0616,137.6321,4.0
+5558,North Moonta,South Australia,SA,-34.0528,137.5931,3.0
+5558,Yelta,South Australia,SA,-34.0616,137.6321,4.0
+5558,Cross Roads,South Australia,SA,-34.1127,137.6609,3.0
+5560,Bute,South Australia,SA,-33.8656,138.0066,4.0
+5560,Ninnes,South Australia,SA,-33.8656,138.0066,3.0
+5570,Winulta,South Australia,SA,-34.2763,137.8728,4.0
+5570,Port Clinton,South Australia,SA,-34.2243,138.0206,4.0
+5570,Price,South Australia,SA,-34.2864,137.9943,4.0
+5570,Clinton,South Australia,SA,-34.183,137.9648,3.0
+5570,Clinton Centre,South Australia,SA,-34.2333,137.9167,4.0
+5571,Ardrossan,South Australia,SA,-34.4222,137.9191,4.0
+5571,Pine Point,South Australia,SA,-34.5667,137.8667,4.0
+5571,Tiddy Widdy Beach,South Australia,SA,-34.4014,137.9402,4.0
+5571,Black Point,South Australia,SA,-34.4481,137.8819,3.0
+5571,Sandilands,South Australia,SA,-34.5138,137.7932,4.0
+5571,Petersville,South Australia,SA,-34.4481,137.8819,3.0
+5571,Dowlingville,South Australia,SA,-34.327,137.9193,4.0
+5571,Rogues Point,South Australia,SA,-34.4481,137.8819,3.0
+5571,Cunningham,South Australia,SA,-34.4148,137.7995,4.0
+5571,James Well,South Australia,SA,-34.4481,137.8819,3.0
+5572,Arthurton,South Australia,SA,-34.2667,137.75,4.0
+5573,Yorke Valley,South Australia,SA,-35.1494,137.1512,4.0
+5573,Point Pearce,South Australia,SA,-34.4174,137.5005,3.0
+5573,South Kilkerran,South Australia,SA,-34.4333,137.6,4.0
+5573,Chinaman Wells,South Australia,SA,-34.3811,137.4805,4.0
+5573,Weetulta,South Australia,SA,-34.25,137.6333,4.0
+5573,Balgowan,South Australia,SA,-34.3333,137.4833,4.0
+5573,Port Victoria,South Australia,SA,-34.4972,137.4853,4.0
+5573,Maitland,South Australia,SA,-34.3739,137.6733,4.0
+5573,Urania,South Australia,SA,-34.511,137.6064,4.0
+5573,Wauraltee,South Australia,SA,-34.5833,137.55,4.0
+5575,Hardwicke Bay,South Australia,SA,-34.8888,137.458,4.0
+5575,Bluff Beach,South Australia,SA,-34.7325,137.4807,4.0
+5575,Point Turton,South Australia,SA,-34.9523,137.3565,4.0
+5575,Stenhouse Bay,South Australia,SA,-35.2833,136.9333,4.0
+5575,Port Rickaby,South Australia,SA,-34.6833,137.5,4.0
+5575,Wool Bay,South Australia,SA,-34.9911,137.7567,4.0
+5575,Brentwood,South Australia,SA,-34.8667,137.5,4.0
+5575,White Hut,South Australia,SA,-34.9243,137.3787,3.0
+5575,Koolywurtie,South Australia,SA,-34.65,137.6333,4.0
+5575,Minlaton,South Australia,SA,-34.771,137.5958,4.0
+5575,Corny Point,South Australia,SA,-34.9249,137.0812,4.0
+5575,Ramsay,South Australia,SA,-34.9243,137.3787,3.0
+5575,Marion Bay,South Australia,SA,-35.2333,137.0167,4.0
+5576,Honiton,South Australia,SA,-35.1167,137.65,4.0
+5576,Port Moorowie,South Australia,SA,-35.1167,137.5167,4.0
+5576,Yorketown,South Australia,SA,-35.0185,137.6049,4.0
+5577,Inneston,South Australia,SA,-35.275,136.8917,4.0
+5577,Couch Beach,South Australia,SA,-34.9095,137.1769,4.0
+5577,The Pines,South Australia,SA,-34.9165,137.1605,4.0
+5577,Point Souttar,South Australia,SA,-35.1327,137.1464,3.0
+5577,Warooka,South Australia,SA,-34.9903,137.4012,4.0
+5577,Foul Bay,South Australia,SA,-35.1327,137.1464,3.0
+5580,Port Julia,South Australia,SA,-34.6667,137.8667,4.0
+5580,Curramulka,South Australia,SA,-34.7,137.7,4.0
+5581,Sheaoak Flat,South Australia,SA,-34.778,137.8608,3.0
+5581,Port Vincent,South Australia,SA,-34.7798,137.8593,4.0
+5582,Stansbury,South Australia,SA,-34.9111,137.799,4.0
+5582,Port Giles,South Australia,SA,-34.9111,137.799,3.0
+5583,Coobowie,South Australia,SA,-35.044,137.7311,4.0
+5583,Sultana Point,South Australia,SA,-35.0671,137.7309,3.0
+5583,Edithburgh,South Australia,SA,-35.0846,137.744,4.0
+5600,Whyalla,South Australia,SA,-33.0327,137.5648,4.0
+5600,Whyalla Playford,South Australia,SA,-33.0279,137.562,4.0
+5600,Whyalla DC,South Australia,SA,-33.0303,137.5634,3.0
+5601,Iron Baron,South Australia,SA,-32.9951,137.1686,4.0
+5601,Point Lowly North,South Australia,SA,-32.864,137.1598,3.0
+5601,Backy Point,South Australia,SA,-32.864,137.1598,3.0
+5601,Murninnie Beach,South Australia,SA,-32.864,137.1598,3.0
+5601,Port Bonython,South Australia,SA,-32.9907,137.7754,4.0
+5601,Iron Knob,South Australia,SA,-32.733,137.151,4.0
+5601,Point Lowly,South Australia,SA,-32.864,137.1598,3.0
+5601,Douglas Point South,South Australia,SA,-32.864,137.1598,3.0
+5601,Whyalla Barson,South Australia,SA,-32.864,137.1598,3.0
+5601,Cultana,South Australia,SA,-32.864,137.1598,3.0
+5601,Cowleds Landing,South Australia,SA,-32.864,137.1598,3.0
+5601,Douglas Point,South Australia,SA,-32.864,137.1598,3.0
+5601,Mullaquana,South Australia,SA,-33.2118,137.3627,4.0
+5601,False Bay,South Australia,SA,-32.864,137.1598,3.0
+5601,Fitzgerald Bay,South Australia,SA,-32.864,137.1598,3.0
+5602,Miltalie,South Australia,SA,-33.5833,136.8333,4.0
+5602,Lucky Bay,South Australia,SA,-33.6165,136.8785,3.0
+5602,Cowell,South Australia,SA,-33.6823,136.9212,4.0
+5602,Port Gibbon,South Australia,SA,-33.7972,136.8028,4.0
+5602,Minbrie,South Australia,SA,-33.5,136.9667,4.0
+5602,Midgee,South Australia,SA,-33.4209,137.1546,4.0
+5602,Mitchellville,South Australia,SA,-33.6167,137.15,4.0
+5602,Mangalo,South Australia,SA,-33.5341,136.6208,4.0
+5603,Verran,South Australia,SA,-33.925,136.4,3.0
+5603,Arno Bay,South Australia,SA,-33.9,136.5667,4.0
+5603,Wharminda,South Australia,SA,-33.9538,136.2458,4.0
+5603,Hincks,South Australia,SA,-33.925,136.4,3.0
+5604,Port Neill,South Australia,SA,-34.1188,136.3483,4.0
+5605,Butler,South Australia,SA,-34.1167,136.1,4.0
+5605,Tumby Bay,South Australia,SA,-34.3751,136.1033,4.0
+5606,Port Lincoln,South Australia,SA,-34.7263,135.8744,4.0
+5607,Koppio,South Australia,SA,-34.4167,135.85,4.0
+5607,Little Douglas,South Australia,SA,-34.3251,135.6717,3.0
+5607,Fountain,South Australia,SA,-34.6,135.6333,4.0
+5607,Coomunga,South Australia,SA,-34.6437,135.7074,4.0
+5607,Louth Bay,South Australia,SA,-34.55,135.9,4.0
+5607,Point Boston,South Australia,SA,-34.3251,135.6717,3.0
+5607,Boston,South Australia,SA,-34.6906,135.9165,4.0
+5607,Wanilla,South Australia,SA,-34.5,135.6833,4.0
+5607,Poonindie,South Australia,SA,-34.5813,135.881,4.0
+5607,Green Patch,South Australia,SA,-34.3251,135.6717,3.0
+5607,Yallunda Flat,South Australia,SA,-34.3475,135.8787,4.0
+5607,Coulta,South Australia,SA,-34.3833,135.4667,4.0
+5607,Wangary,South Australia,SA,-34.55,135.4833,4.0
+5607,Whites River,South Australia,SA,-34.3251,135.6717,3.0
+5607,Mount Hope,South Australia,SA,-34.1167,135.3833,4.0
+5607,Ungarra,South Australia,SA,-34.1801,136.0481,4.0
+5607,Sleaford,South Australia,SA,-34.8144,135.7438,4.0
+5607,Duck Ponds,South Australia,SA,-34.7333,135.7833,4.0
+5607,Murdinga,South Australia,SA,-33.7167,135.7167,4.0
+5607,Port Lincoln,South Australia,SA,-34.7263,135.8744,4.0
+5607,Mount Drummond,South Australia,SA,-34.218,135.4092,4.0
+5607,Tootenilla,South Australia,SA,-34.3251,135.6717,3.0
+5607,Charlton Gully,South Australia,SA,-34.55,135.8035,4.0
+5607,Warrachie,South Australia,SA,-33.65,135.7167,4.0
+5607,Pearlah,South Australia,SA,-34.5934,135.6761,4.0
+5607,Lincoln National Park,South Australia,SA,-34.8341,135.856,4.0
+5607,Lipson,South Australia,SA,-34.3,136.1333,4.0
+5607,Venus Bay,South Australia,SA,-33.2333,134.6833,4.0
+5607,Coffin Bay,South Australia,SA,-34.6167,135.4667,4.0
+5607,Hawson,South Australia,SA,-34.3251,135.6717,3.0
+5607,Tiatukia,South Australia,SA,-34.3251,135.6717,3.0
+5607,Kiana,South Australia,SA,-34.3251,135.6717,3.0
+5607,Sheringa,South Australia,SA,-33.8443,135.2321,4.0
+5607,Uley,South Australia,SA,-34.3251,135.6717,3.0
+5607,Brooker,South Australia,SA,-34.1,135.9,4.0
+5607,North Shields,South Australia,SA,-34.6286,135.8622,4.0
+5607,Tulka,South Australia,SA,-34.7942,135.7999,4.0
+5607,Kellidie Bay,South Australia,SA,-34.3251,135.6717,3.0
+5607,Tooligie,South Australia,SA,-33.85,135.7,4.0
+5607,Moody,South Australia,SA,-34.3251,135.6717,3.0
+5607,Warrow,South Australia,SA,-34.3333,135.4667,4.0
+5607,Whites Flat,South Australia,SA,-34.5122,135.8532,4.0
+5607,Farm Beach,South Australia,SA,-34.3251,135.6717,3.0
+5607,Mount Dutton Bay,South Australia,SA,-34.3251,135.6717,3.0
+5608,Whyalla Norrie,South Australia,SA,-33.029,137.5392,4.0
+5608,Whyalla Norrie East,South Australia,SA,-33.027,137.532,3.0
+5608,Whyalla Stuart,South Australia,SA,-33.0249,137.5247,4.0
+5608,Whyalla Norrie North,South Australia,SA,-33.027,137.532,3.0
+5609,Whyalla Jenkins,South Australia,SA,-33.0221,137.5127,4.0
+5630,Edillilie,South Australia,SA,-34.4118,135.7063,4.0
+5631,Cockaleechie,South Australia,SA,-34.2601,135.7273,3.0
+5631,Cummins,South Australia,SA,-34.264,135.726,4.0
+5632,Karkoo,South Australia,SA,-34.0328,135.7293,4.0
+5632,Mitchell,South Australia,SA,-35.0051,138.5623,4.0
+5632,Yeelanna,South Australia,SA,-34.1408,135.7294,4.0
+5632,Kapinnie,South Australia,SA,-34.138,135.4976,4.0
+5633,Boonerdo,South Australia,SA,-33.5667,135.7667,3.0
+5633,Lock,South Australia,SA,-33.568,135.7565,4.0
+5640,Waddikee,South Australia,SA,-33.3131,136.2551,4.0
+5640,Jamieson,South Australia,SA,-33.5083,136.3583,3.0
+5640,Cleve,South Australia,SA,-33.7,136.5,4.0
+5640,Campoona,South Australia,SA,-33.5083,136.3583,3.0
+5641,Moseley,South Australia,SA,-33.0833,136.5167,4.0
+5641,Pinkawillinie,South Australia,SA,-33.105,136.3337,3.0
+5641,Buckleboo,South Australia,SA,-32.9167,136.2,4.0
+5641,Wilcherry,South Australia,SA,-33.105,136.3337,3.0
+5641,Cortlinye,South Australia,SA,-33.0167,136.3333,4.0
+5641,Yalanda,South Australia,SA,-33.105,136.3337,3.0
+5641,Caralue,South Australia,SA,-33.3667,136.2,4.0
+5641,Panitya,South Australia,SA,-33.105,136.3337,3.0
+5641,Kimba,South Australia,SA,-33.1416,136.4187,4.0
+5641,Kelly,South Australia,SA,-33.105,136.3337,3.0
+5641,Cunyarie,South Australia,SA,-33.105,136.3337,3.0
+5641,Solomon,South Australia,SA,-33.105,136.3337,3.0
+5641,Barna,South Australia,SA,-33.105,136.3337,3.0
+5642,Rudall,South Australia,SA,-33.6833,136.2667,4.0
+5642,Darke Peak,South Australia,SA,-33.4667,136.2,4.0
+5642,Murlong,South Australia,SA,-33.5778,136.2278,3.0
+5642,Kielpa,South Australia,SA,-33.5833,136.2167,4.0
+5642,Hambidge,South Australia,SA,-33.5778,136.2278,3.0
+5650,Koongawa,South Australia,SA,-33.1667,135.8833,4.0
+5650,Warramboo,South Australia,SA,-33.2333,135.6,4.0
+5650,Cootra,South Australia,SA,-33.25,135.8667,4.0
+5651,Kyancutta,South Australia,SA,-33.1333,135.5667,4.0
+5652,Paney,South Australia,SA,-33.0334,135.4402,3.0
+5652,Pygery,South Australia,SA,-33.0167,135.4167,4.0
+5652,Wudinna,South Australia,SA,-33.0501,135.4638,4.0
+5653,Yaninee,South Australia,SA,-32.9462,135.2737,4.0
+5654,Mount Damper,South Australia,SA,-33.1167,135.1,4.0
+5654,Karcultaby,South Australia,SA,-32.7667,134.9667,4.0
+5654,Minnipa,South Australia,SA,-32.85,135.15,4.0
+5654,Cocata,South Australia,SA,-32.9111,135.0722,3.0
+5655,Poochera,South Australia,SA,-32.7167,134.85,4.0
+5655,Kaldoonera,South Australia,SA,-32.7167,134.85,3.0
+5655,Bockelberg,South Australia,SA,-32.7167,134.85,3.0
+5660,Cungena,South Australia,SA,-32.5833,134.7167,4.0
+5660,Chilpenunda,South Australia,SA,-32.5833,134.7167,3.0
+5661,Wirrulla,South Australia,SA,-32.4,134.5167,4.0
+5661,Koolgera,South Australia,SA,-32.4,134.5278,3.0
+5661,Yantanabie,South Australia,SA,-32.4833,134.6363,4.0
+5661,Wallala,South Australia,SA,-32.4,134.5278,3.0
+5661,Pimbaacla,South Australia,SA,-32.3241,134.4495,4.0
+5670,Kappawanta,South Australia,SA,-33.5096,134.9778,3.0
+5670,Colton,South Australia,SA,-33.4833,134.9333,4.0
+5670,Ulyerra,South Australia,SA,-33.5096,134.9778,3.0
+5670,Bramfield,South Australia,SA,-33.6167,135.0167,4.0
+5670,Coolillie,South Australia,SA,-33.5096,134.9778,3.0
+5670,Mount Wedge,South Australia,SA,-33.4665,135.1566,4.0
+5670,Elliston,South Australia,SA,-33.6479,134.8889,4.0
+5670,Palkagee,South Australia,SA,-33.4141,135.5029,4.0
+5670,Talia,South Australia,SA,-33.3167,134.8833,4.0
+5670,Mount Joy,South Australia,SA,-33.5291,135.1062,4.0
+5670,Polda,South Australia,SA,-33.5281,135.4578,4.0
+5671,Mortana,South Australia,SA,-33.0279,134.4531,4.0
+5671,Port Kenny,South Australia,SA,-33.1667,134.7,4.0
+5671,Calca,South Australia,SA,-33.0833,134.35,4.0
+5671,Tyringa,South Australia,SA,-33.0917,134.55,3.0
+5671,Baird Bay,South Australia,SA,-33.0917,134.55,3.0
+5671,Mount Cooper,South Australia,SA,-33.0833,134.7,4.0
+5671,Witera,South Australia,SA,-33.0917,134.55,3.0
+5671,Colley,South Australia,SA,-33.0917,134.55,3.0
+5680,Chinbingina,South Australia,SA,-32.2167,134.2,4.0
+5680,Sceale Bay,South Australia,SA,-33.0167,134.2,4.0
+5680,Streaky Bay,South Australia,SA,-32.7955,134.2093,4.0
+5680,Piednippie,South Australia,SA,-32.473,134.2278,3.0
+5680,Petina,South Australia,SA,-32.4765,134.3969,4.0
+5680,Perlubie,South Australia,SA,-32.473,134.2278,3.0
+5680,Nunjikompita,South Australia,SA,-32.2691,134.3383,4.0
+5680,Westall,South Australia,SA,-32.473,134.2278,3.0
+5680,Haslam,South Australia,SA,-32.5,134.2,4.0
+5680,Pureba,South Australia,SA,-32.473,134.2278,3.0
+5680,Carawa,South Australia,SA,-32.3833,134.2,4.0
+5680,Maryvale,South Australia,SA,-32.473,134.2278,3.0
+5680,Chandada,South Australia,SA,-32.7548,134.6731,4.0
+5680,Yanerbie,South Australia,SA,-32.473,134.2278,3.0
+5680,Puntabie,South Australia,SA,-32.2036,134.1281,4.0
+5680,Laura Bay,South Australia,SA,-32.2167,133.8333,4.0
+5680,Mudamuckla,South Australia,SA,-32.1584,134.0438,4.0
+5680,Eba Anchorage,South Australia,SA,-32.473,134.2278,3.0
+5680,Smoky Bay,South Australia,SA,-32.3784,133.934,4.0
+5680,Inkster,South Australia,SA,-32.8167,134.6833,4.0
+5690,Nadia,South Australia,SA,-32.077,133.4841,4.0
+5690,Denial Bay,South Australia,SA,-32.1006,133.5768,4.0
+5690,Ceduna,South Australia,SA,-32.1266,133.6727,4.0
+5690,Koonibba,South Australia,SA,-31.9044,133.431,4.0
+5690,Thevenard,South Australia,SA,-32.1458,133.6485,4.0
+5690,Charra,South Australia,SA,-32.0833,133.3333,3.0
+5690,Kalanbi,South Australia,SA,-31.9513,133.6311,4.0
+5690,Wandana,South Australia,SA,-32.0129,133.2552,3.0
+5690,Bookabie,South Australia,SA,-31.8384,132.6899,4.0
+5690,Maltee,South Australia,SA,-32.0833,133.9,4.0
+5690,Uworra,South Australia,SA,-31.965,133.327,4.0
+5690,Coorabie,South Australia,SA,-31.8998,132.2953,4.0
+5690,Penong,South Australia,SA,-31.9303,133.0107,4.0
+5690,Merghiny,South Australia,SA,-32.1167,133.8333,4.0
+5690,Watraba,South Australia,SA,-31.9734,133.2119,4.0
+5690,White Well Corner,South Australia,SA,-32.0129,133.2552,3.0
+5690,Fowlers Bay,South Australia,SA,-31.9865,132.4349,4.0
+5690,Yalata,South Australia,SA,-31.4802,131.8424,4.0
+5700,Winninowie,South Australia,SA,-32.5369,137.8122,3.0
+5700,Port Augusta North,South Australia,SA,-32.6049,137.6894,3.0
+5700,Port Paterson,South Australia,SA,-32.5543,137.8309,4.0
+5700,Port Augusta,South Australia,SA,-32.496,137.7728,4.0
+5700,Commissariat Point,South Australia,SA,-32.5369,137.8122,3.0
+5700,Miranda,South Australia,SA,-32.6139,137.8949,4.0
+5700,Blanche Harbor,South Australia,SA,-32.5369,137.8122,3.0
+5700,Port Augusta West,South Australia,SA,-32.4861,137.7583,4.0
+5700,Wami Kata,South Australia,SA,-32.5369,137.8122,3.0
+5700,Mundallio,South Australia,SA,-32.4678,137.8842,4.0
+5701,Tarcoola,South Australia,SA,-30.7101,134.5707,4.0
+5701,Arkaroola Village,South Australia,SA,-30.3116,139.3356,4.0
+5701,Glendambo,South Australia,SA,-30.9683,135.7502,4.0
+5701,Woolundunga,South Australia,SA,-32.5374,137.9454,4.0
+5701,Cook,South Australia,SA,-32.5369,137.8122,3.0
+5701,Kingoonya,South Australia,SA,-30.9107,135.3105,4.0
+5701,Port Augusta,South Australia,SA,-32.496,137.7728,4.0
+5710,Kingoonya,South Australia,SA,-30.9107,135.3105,4.0
+5710,Cook,South Australia,SA,-29.3441,134.786,3.0
+5710,Nonning,South Australia,SA,-32.5,136.5,4.0
+5710,Stirling North,South Australia,SA,-32.4799,137.838,4.0
+5710,Tarcoola,South Australia,SA,-30.7101,134.5707,4.0
+5710,Port Augusta,South Australia,SA,-32.496,137.7728,4.0
+5720,Pimba,South Australia,SA,-31.2521,136.8048,4.0
+5720,Woomera,South Australia,SA,-31.1998,136.8326,4.0
+5722,Andamooka,South Australia,SA,-30.4481,137.1656,4.0
+5723,Coober Pedy,South Australia,SA,-29.0141,134.755,4.0
+5724,Mintabie,South Australia,SA,-27.3103,133.2966,4.0
+5724,Marla,South Australia,SA,-27.2997,133.6225,4.0
+5725,Olympic Dam,South Australia,SA,-30.4468,136.8668,4.0
+5725,Roxby Downs,South Australia,SA,-30.5631,136.8955,4.0
+5730,Blinman,South Australia,SA,-31.1174,138.6896,4.0
+5730,Beltana,South Australia,SA,-30.8143,138.4152,4.0
+5730,Parachilna,South Australia,SA,-31.1322,138.395,4.0
+5731,Leigh Creek,South Australia,SA,-30.5931,138.4003,4.0
+5731,Innamincka,South Australia,SA,-27.7073,140.737,4.0
+5731,Lyndhurst,South Australia,SA,-30.2879,138.3493,4.0
+5731,Cordillo Downs,South Australia,SA,-30.4405,138.3748,3.0
+5731,Coopers Creek,South Australia,SA,-30.4405,138.3748,3.0
+5732,Copley,South Australia,SA,-30.5599,138.4213,4.0
+5732,Nepabunna,South Australia,SA,-30.5635,138.967,4.0
+5733,Farina,South Australia,SA,-30.0665,138.2847,4.0
+5733,Marree,South Australia,SA,-29.6512,138.071,4.0
+5734,Oodnadatta,South Australia,SA,-27.5514,135.4491,4.0
+5800,Adelaide,South Australia,SA,-34.9287,138.5986,4.0
+5810,Adelaide,South Australia,SA,-34.9287,138.5986,4.0
+5839,Adelaide,South Australia,SA,-34.9287,138.5986,4.0
+5860,Adelaide Mail Centre,South Australia,SA,-34.9287,138.5986,1.0
+5861,Adelaide Mail Centre,South Australia,SA,-34.9287,138.5986,1.0
+5862,Adelaide Mail Centre,South Australia,SA,-34.9287,138.5986,1.0
+5863,Adelaide Mail Centre,South Australia,SA,-34.9287,138.5986,1.0
+5864,Adelaide Mail Centre,South Australia,SA,-34.9287,138.5986,1.0
+5865,Adelaide Mail Centre,South Australia,SA,-34.9287,138.5986,1.0
+5866,Adelaide Mail Centre,South Australia,SA,-34.9287,138.5986,1.0
+5867,Adelaide Mail Centre,South Australia,SA,-34.9287,138.5986,1.0
+5868,Adelaide Mail Centre,South Australia,SA,-34.9287,138.5986,1.0
+5869,Adelaide Mail Centre,South Australia,SA,-34.9287,138.5986,1.0
+5870,Adelaide Mail Centre,South Australia,SA,-34.9287,138.5986,1.0
+5871,Adelaide Mail Centre,South Australia,SA,-34.9287,138.5986,1.0
+5872,Adelaide Mail Centre,South Australia,SA,-34.9287,138.5986,1.0
+5873,Adelaide Mail Centre,South Australia,SA,-34.9287,138.5986,1.0
+5874,Adelaide Mail Centre,South Australia,SA,-34.9287,138.5986,1.0
+5875,Adelaide Mail Centre,South Australia,SA,-34.9287,138.5986,1.0
+5876,Adelaide Mail Centre,South Australia,SA,-34.9287,138.5986,1.0
+5877,Adelaide Mail Centre,South Australia,SA,-34.9287,138.5986,1.0
+5878,Adelaide Mail Centre,South Australia,SA,-34.9287,138.5986,1.0
+5879,Adelaide Mail Centre,South Australia,SA,-34.9287,138.5986,1.0
+5880,Adelaide Mail Centre,South Australia,SA,-34.9287,138.5986,1.0
+5881,Adelaide Mail Centre,South Australia,SA,-34.9287,138.5986,1.0
+5882,Adelaide Mail Centre,South Australia,SA,-34.9287,138.5986,1.0
+5883,Adelaide Mail Centre,South Australia,SA,-34.9287,138.5986,1.0
+5884,Adelaide Mail Centre,South Australia,SA,-34.9287,138.5986,1.0
+5885,Adelaide Mail Centre,South Australia,SA,-34.9287,138.5986,1.0
+5886,Adelaide Mail Centre,South Australia,SA,-34.9287,138.5986,1.0
+5887,Adelaide Mail Centre,South Australia,SA,-34.9287,138.5986,1.0
+5888,Adelaide Mail Centre,South Australia,SA,-34.9287,138.5986,1.0
+5889,Adelaide Mail Centre,South Australia,SA,-34.9287,138.5986,1.0
+5890,Adelaide Mail Centre,South Australia,SA,-34.9287,138.5986,1.0
+5891,Adelaide Mail Centre,South Australia,SA,-34.9287,138.5986,1.0
+5892,Adelaide Mail Centre,South Australia,SA,-34.9287,138.5986,1.0
+5893,Adelaide Mail Centre,South Australia,SA,-34.9287,138.5986,1.0
+5894,Adelaide Mail Centre,South Australia,SA,-34.9287,138.5986,1.0
+5895,Adelaide Mail Centre,South Australia,SA,-34.9287,138.5986,1.0
+5896,Adelaide Mail Centre,South Australia,SA,-34.9287,138.5986,1.0
+5897,Adelaide Mail Centre,South Australia,SA,-34.9287,138.5986,1.0
+5898,Adelaide Mail Centre,South Australia,SA,-34.9287,138.5986,1.0
+5899,Adelaide Mail Centre,South Australia,SA,-34.9287,138.5986,1.0
+5900,Adelaide Mail Centre,South Australia,SA,-34.8956,138.5855,1.0
+5901,Adelaide Mail Centre,South Australia,SA,-34.8956,138.5855,1.0
+5902,Adelaide Mail Centre,South Australia,SA,-34.8956,138.5855,1.0
+5903,Adelaide Mail Centre,South Australia,SA,-34.8956,138.5855,1.0
+5904,Adelaide Mail Centre,South Australia,SA,-34.8956,138.5855,1.0
+5920,Adelaide,South Australia,SA,-34.9287,138.5986,4.0
+5942,Regency Park,South Australia,SA,-34.8626,138.5724,4.0
+5950,Export Park,South Australia,SA,-34.9461,138.5302,3.0
+5950,Adelaide Airport,South Australia,SA,-34.9391,138.5341,4.0
+5960,Torrens Island,South Australia,SA,-34.8956,138.5855,1.0
+5960,Garden Island,South Australia,SA,-34.8956,138.5855,1.0

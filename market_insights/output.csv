@@ -1,0 +1,27 @@
+,suburb,state,postcode,property_type,buy_or_rent,bedrooms,available_in_the_past_month,in_the_past_12_months,median_time_on_market,interested,rental_yield,Median__price
+345,camperdown,vic,3260,house,buy,all,28 houses ,71 sold ,38.0,671,5.1% ,450000.0
+599,sebastopol,vic,3356,house,buy,all,62 houses ,181 sold ,22.0,1172,4.0% ,465000.0
+595,wendouree,vic,3355,house,buy,all,62 houses ,174 sold ,32.0,1046,3.9% ,480000.0
+249,norlane,vic,3214,house,buy,all,52 houses ,152 sold ,37.0,913,3.7% ,487500.0
+502,melton,vic,3337,house,buy,all,68 houses ,170 sold ,38.0,1518,3.6% ,501250.0
+507,melton-south,vic,3338,house,buy,all,86 houses ,219 sold ,29.0,1281,3.5% ,520000.0
+536,ballarat-east,vic,3350,house,buy,all,51 houses ,119 sold ,22.0,1492,3.7% ,530000.0
+66,dallas,vic,3047,house,buy,all,35 houses ,79 sold ,31.0,778,3.5% ,532500.0
+529,mount-pleasant,vic,3350,house,buy,all,20 houses ,47 sold ,34.0,826,3.7% ,535000.0
+503,melton-west,vic,3337,house,buy,all,53 houses ,162 sold ,28.0,987,3.6% ,550500.0
+534,canadian,vic,3350,house,buy,all,21 houses ,60 sold ,33.0,554,3.8% ,554850.0
+533,mount-clear,vic,3350,house,buy,all,22 houses ,62 sold ,30.0,618,3.9% ,557750.0
+606,creswick,vic,3363,house,buy,all,20 houses ,63 sold ,30.0,708,3.7% ,565000.0
+25,wyndham-vale,vic,3024,house,buy,all,143 houses ,433 sold ,25.0,2397,3.4% ,575000.0
+598,delacombe,vic,3356,house,buy,all,30 houses ,81 sold ,25.0,712,3.6% ,575000.0
+505,brookfield,vic,3338,house,buy,all,67 houses ,183 sold ,26.0,1154,3.5% ,580000.0
+18,albanvale,vic,3021,house,buy,all,32 houses ,63 sold ,35.0,675,3.1% ,600000.0
+266,newcomb,vic,3219,house,buy,all,26 houses ,89 sold ,36.0,843,3.4% ,607000.0
+237,frankston-north,vic,3200,house,buy,all,26 houses ,123 sold ,24.0,1009,3.4% ,610000.0
+208,doveton,vic,3177,house,buy,all,80 houses ,147 sold ,40.0,921,3.2% ,625000.0
+526,brown-hill,vic,3350,house,buy,all,39 houses ,59 sold ,29.0,1041,3.5% ,630000.0
+32,hoppers-crossing,vic,3029,house,buy,all,161 houses ,531 sold ,34.0,3411,3.2% ,630000.0
+23,deer-park,vic,3023,house,buy,all,57 houses ,189 sold ,43.0,1603,3.2% ,630000.0
+21,kings-park,vic,3021,house,buy,all,29 houses ,79 sold ,27.0,514,3.1% ,630000.0
+84,roxburgh-park,vic,3064,house,buy,all,88 houses ,265 sold ,36.0,1851,3.6% ,650000.0
+44,delahey,vic,3037,house,buy,all,21 houses ,68 sold ,24.0,992,3.3% ,650000.0
